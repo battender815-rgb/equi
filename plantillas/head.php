@@ -2706,9 +2706,9 @@
   color: #fff;
 }</style></head><body class="chrome controls-visible yui3-skin-sam signed-out public-page site efx-animations--on"><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe><meta http-equiv="origin-trial" content="A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
 <meta http-equiv="X-UA-Compatible" content="IE=11">
-	<title>Empresas | Equifax Ecuador</title>
-	<meta content="initial-scale=1.0, width=device-width" name="viewport">
-	<style type="text/css">svg:not(:root).svg-inline--fa {
+  <title>Empresas | Equifax Ecuador</title>
+  <meta content="initial-scale=1.0, width=device-width" name="viewport">
+  <style type="text/css">svg:not(:root).svg-inline--fa {
   overflow: visible;
 }
 
@@ -4062,16 +4062,16 @@
 .fad.fa-inverse {
   color: #fff;
 }</style><link rel="apple-touch-icon" href="https://assets.equifax.com/global/images/icons/apple-touch-icon-57x57.png">
-	<script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-1VERWEEG3M&amp;cx=c&amp;gtm=4e61m0"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-696749402&amp;cx=c&amp;gtm=4e61m0"></script><script src="https://connect.facebook.net/signals/config/385286424143638?v=2.9.252&amp;r=stable&amp;domain=localhost&amp;hme=a2b1dd5145ee207019b7695e2ee204e1fa99fb97d553ed7ee626f2311efba0c0&amp;ex_m=95%2C157%2C135%2C20%2C67%2C68%2C128%2C63%2C42%2C129%2C72%2C62%2C10%2C142%2C81%2C15%2C94%2C123%2C116%2C70%2C73%2C122%2C139%2C103%2C144%2C7%2C3%2C4%2C6%2C5%2C2%2C82%2C92%2C145%2C225%2C169%2C56%2C227%2C228%2C49%2C184%2C27%2C69%2C233%2C232%2C172%2C29%2C55%2C9%2C58%2C88%2C89%2C90%2C96%2C119%2C28%2C26%2C121%2C118%2C117%2C136%2C71%2C138%2C137%2C44%2C54%2C112%2C14%2C141%2C39%2C214%2C216%2C179%2C23%2C24%2C25%2C17%2C18%2C38%2C34%2C36%2C35%2C77%2C83%2C87%2C101%2C127%2C130%2C40%2C102%2C21%2C19%2C108%2C64%2C32%2C132%2C131%2C133%2C124%2C22%2C31%2C53%2C100%2C140%2C65%2C16%2C134%2C105%2C76%2C61%2C30%2C194%2C164%2C284%2C212%2C155%2C197%2C190%2C165%2C98%2C120%2C75%2C110%2C48%2C41%2C43%2C104%2C109%2C115%2C52%2C59%2C114%2C47%2C50%2C46%2C91%2C143%2C0%2C113%2C13%2C111%2C11%2C1%2C51%2C84%2C57%2C60%2C107%2C80%2C79%2C146%2C147%2C85%2C86%2C8%2C93%2C45%2C125%2C78%2C74%2C66%2C106%2C97%2C37%2C126%2C33%2C99%2C12%2C148" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5CQ7WCL"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5CQ7WCL"></script><script src="https://connect.facebook.net/signals/config/385286424143638?v=2.9.252&amp;r=stable&amp;domain=localhost&amp;hme=a2b1dd5145ee207019b7695e2ee204e1fa99fb97d553ed7ee626f2311efba0c0&amp;ex_m=95%2C157%2C135%2C20%2C67%2C68%2C128%2C63%2C42%2C129%2C72%2C62%2C10%2C142%2C81%2C15%2C94%2C123%2C116%2C70%2C73%2C122%2C139%2C103%2C144%2C7%2C3%2C4%2C6%2C5%2C2%2C82%2C92%2C145%2C225%2C169%2C56%2C227%2C228%2C49%2C184%2C27%2C69%2C233%2C232%2C172%2C29%2C55%2C9%2C58%2C88%2C89%2C90%2C96%2C119%2C28%2C26%2C121%2C118%2C117%2C136%2C71%2C138%2C137%2C44%2C54%2C112%2C14%2C141%2C39%2C214%2C216%2C179%2C23%2C24%2C25%2C17%2C18%2C38%2C34%2C36%2C35%2C77%2C83%2C87%2C101%2C127%2C130%2C40%2C102%2C21%2C19%2C108%2C64%2C32%2C132%2C131%2C133%2C124%2C22%2C31%2C53%2C100%2C140%2C65%2C16%2C134%2C105%2C76%2C61%2C30%2C194%2C164%2C284%2C212%2C155%2C197%2C190%2C165%2C98%2C120%2C75%2C110%2C48%2C41%2C43%2C104%2C109%2C115%2C52%2C59%2C114%2C47%2C50%2C46%2C91%2C143%2C0%2C113%2C13%2C111%2C11%2C1%2C51%2C84%2C57%2C60%2C107%2C80%2C79%2C146%2C147%2C85%2C86%2C8%2C93%2C45%2C125%2C78%2C74%2C66%2C106%2C97%2C37%2C126%2C33%2C99%2C12%2C148" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-696749402&amp;cx=c&amp;gtm=4e61m0"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5CQ7WCL"></script><script src="https://connect.facebook.net/signals/config/385286424143638?v=2.9.252&amp;r=stable&amp;domain=localhost&amp;hme=a2b1dd5145ee207019b7695e2ee204e1fa99fb97d553ed7ee626f2311efba0c0&amp;ex_m=95%2C157%2C135%2C20%2C67%2C68%2C128%2C63%2C42%2C129%2C72%2C62%2C10%2C142%2C81%2C15%2C94%2C123%2C116%2C70%2C73%2C122%2C139%2C103%2C144%2C7%2C3%2C4%2C6%2C5%2C2%2C82%2C92%2C145%2C225%2C169%2C56%2C227%2C228%2C49%2C184%2C27%2C69%2C233%2C232%2C172%2C29%2C55%2C9%2C58%2C88%2C89%2C90%2C96%2C119%2C28%2C26%2C121%2C118%2C117%2C136%2C71%2C138%2C137%2C44%2C54%2C112%2C14%2C141%2C39%2C214%2C216%2C179%2C23%2C24%2C25%2C17%2C18%2C38%2C34%2C36%2C35%2C77%2C83%2C87%2C101%2C127%2C130%2C40%2C102%2C21%2C19%2C108%2C64%2C32%2C132%2C131%2C133%2C124%2C22%2C31%2C53%2C100%2C140%2C65%2C16%2C134%2C105%2C76%2C61%2C30%2C194%2C164%2C284%2C212%2C155%2C197%2C190%2C165%2C98%2C120%2C75%2C110%2C48%2C41%2C43%2C104%2C109%2C115%2C52%2C59%2C114%2C47%2C50%2C46%2C91%2C143%2C0%2C113%2C13%2C111%2C11%2C1%2C51%2C84%2C57%2C60%2C107%2C80%2C79%2C146%2C147%2C85%2C86%2C8%2C93%2C45%2C125%2C78%2C74%2C66%2C106%2C97%2C37%2C126%2C33%2C99%2C12%2C148" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="https://connect.facebook.net/signals/config/385286424143638?v=2.9.252&amp;r=stable&amp;domain=localhost&amp;hme=a2b1dd5145ee207019b7695e2ee204e1fa99fb97d553ed7ee626f2311efba0c0&amp;ex_m=95%2C157%2C135%2C20%2C67%2C68%2C128%2C63%2C42%2C129%2C72%2C62%2C10%2C142%2C81%2C15%2C94%2C123%2C116%2C70%2C73%2C122%2C139%2C103%2C144%2C7%2C3%2C4%2C6%2C5%2C2%2C82%2C92%2C145%2C225%2C169%2C56%2C227%2C228%2C49%2C184%2C27%2C69%2C233%2C232%2C172%2C29%2C55%2C9%2C58%2C88%2C89%2C90%2C96%2C119%2C28%2C26%2C121%2C118%2C117%2C136%2C71%2C138%2C137%2C44%2C54%2C112%2C14%2C141%2C39%2C214%2C216%2C179%2C23%2C24%2C25%2C17%2C18%2C38%2C34%2C36%2C35%2C77%2C83%2C87%2C101%2C127%2C130%2C40%2C102%2C21%2C19%2C108%2C64%2C32%2C132%2C131%2C133%2C124%2C22%2C31%2C53%2C100%2C140%2C65%2C16%2C134%2C105%2C76%2C61%2C30%2C194%2C164%2C284%2C212%2C155%2C197%2C190%2C165%2C98%2C120%2C75%2C110%2C48%2C41%2C43%2C104%2C109%2C115%2C52%2C59%2C114%2C47%2C50%2C46%2C91%2C143%2C0%2C113%2C13%2C111%2C11%2C1%2C51%2C84%2C57%2C60%2C107%2C80%2C79%2C146%2C147%2C85%2C86%2C8%2C93%2C45%2C125%2C78%2C74%2C66%2C106%2C97%2C37%2C126%2C33%2C99%2C12%2C148" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5CQ7WCL"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5CQ7WCL"></script><script src="https://connect.facebook.net/signals/config/385286424143638?v=2.9.252&amp;r=stable&amp;domain=localhost&amp;hme=a2b1dd5145ee207019b7695e2ee204e1fa99fb97d553ed7ee626f2311efba0c0&amp;ex_m=95%2C157%2C135%2C20%2C67%2C68%2C128%2C63%2C42%2C129%2C72%2C62%2C10%2C142%2C81%2C15%2C94%2C123%2C116%2C70%2C73%2C122%2C139%2C103%2C144%2C7%2C3%2C4%2C6%2C5%2C2%2C82%2C92%2C145%2C225%2C169%2C56%2C227%2C228%2C49%2C184%2C27%2C69%2C233%2C232%2C172%2C29%2C55%2C9%2C58%2C88%2C89%2C90%2C96%2C119%2C28%2C26%2C121%2C118%2C117%2C136%2C71%2C138%2C137%2C44%2C54%2C112%2C14%2C141%2C39%2C214%2C216%2C179%2C23%2C24%2C25%2C17%2C18%2C38%2C34%2C36%2C35%2C77%2C83%2C87%2C101%2C127%2C130%2C40%2C102%2C21%2C19%2C108%2C64%2C32%2C132%2C131%2C133%2C124%2C22%2C31%2C53%2C100%2C140%2C65%2C16%2C134%2C105%2C76%2C61%2C30%2C194%2C164%2C284%2C212%2C155%2C197%2C190%2C165%2C98%2C120%2C75%2C110%2C48%2C41%2C43%2C104%2C109%2C115%2C52%2C59%2C114%2C47%2C50%2C46%2C91%2C143%2C0%2C113%2C13%2C111%2C11%2C1%2C51%2C84%2C57%2C60%2C107%2C80%2C79%2C146%2C147%2C85%2C86%2C8%2C93%2C45%2C125%2C78%2C74%2C66%2C106%2C97%2C37%2C126%2C33%2C99%2C12%2C148" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5CQ7WCL"></script><script src="https://connect.facebook.net/signals/config/385286424143638?v=2.9.252&amp;r=stable&amp;domain=localhost&amp;hme=a2b1dd5145ee207019b7695e2ee204e1fa99fb97d553ed7ee626f2311efba0c0&amp;ex_m=95%2C157%2C135%2C20%2C67%2C68%2C128%2C63%2C42%2C129%2C72%2C62%2C10%2C142%2C81%2C15%2C94%2C123%2C116%2C70%2C73%2C122%2C139%2C103%2C144%2C7%2C3%2C4%2C6%2C5%2C2%2C82%2C92%2C145%2C225%2C169%2C56%2C227%2C228%2C49%2C184%2C27%2C69%2C233%2C232%2C172%2C29%2C55%2C9%2C58%2C88%2C89%2C90%2C96%2C119%2C28%2C26%2C121%2C118%2C117%2C136%2C71%2C138%2C137%2C44%2C54%2C112%2C14%2C141%2C39%2C214%2C216%2C179%2C23%2C24%2C25%2C17%2C18%2C38%2C34%2C36%2C35%2C77%2C83%2C87%2C101%2C127%2C130%2C40%2C102%2C21%2C19%2C108%2C64%2C32%2C132%2C131%2C133%2C124%2C22%2C31%2C53%2C100%2C140%2C65%2C16%2C134%2C105%2C76%2C61%2C30%2C194%2C164%2C284%2C212%2C155%2C197%2C190%2C165%2C98%2C120%2C75%2C110%2C48%2C41%2C43%2C104%2C109%2C115%2C52%2C59%2C114%2C47%2C50%2C46%2C91%2C143%2C0%2C113%2C13%2C111%2C11%2C1%2C51%2C84%2C57%2C60%2C107%2C80%2C79%2C146%2C147%2C85%2C86%2C8%2C93%2C45%2C125%2C78%2C74%2C66%2C106%2C97%2C37%2C126%2C33%2C99%2C12%2C148" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="https://connect.facebook.net/signals/config/385286424143638?v=2.9.252&amp;r=stable&amp;domain=localhost&amp;hme=a2b1dd5145ee207019b7695e2ee204e1fa99fb97d553ed7ee626f2311efba0c0&amp;ex_m=95%2C157%2C135%2C20%2C67%2C68%2C128%2C63%2C42%2C129%2C72%2C62%2C10%2C142%2C81%2C15%2C94%2C123%2C116%2C70%2C73%2C122%2C139%2C103%2C144%2C7%2C3%2C4%2C6%2C5%2C2%2C82%2C92%2C145%2C225%2C169%2C56%2C227%2C228%2C49%2C184%2C27%2C69%2C233%2C232%2C172%2C29%2C55%2C9%2C58%2C88%2C89%2C90%2C96%2C119%2C28%2C26%2C121%2C118%2C117%2C136%2C71%2C138%2C137%2C44%2C54%2C112%2C14%2C141%2C39%2C214%2C216%2C179%2C23%2C24%2C25%2C17%2C18%2C38%2C34%2C36%2C35%2C77%2C83%2C87%2C101%2C127%2C130%2C40%2C102%2C21%2C19%2C108%2C64%2C32%2C132%2C131%2C133%2C124%2C22%2C31%2C53%2C100%2C140%2C65%2C16%2C134%2C105%2C76%2C61%2C30%2C194%2C164%2C284%2C212%2C155%2C197%2C190%2C165%2C98%2C120%2C75%2C110%2C48%2C41%2C43%2C104%2C109%2C115%2C52%2C59%2C114%2C47%2C50%2C46%2C91%2C143%2C0%2C113%2C13%2C111%2C11%2C1%2C51%2C84%2C57%2C60%2C107%2C80%2C79%2C146%2C147%2C85%2C86%2C8%2C93%2C45%2C125%2C78%2C74%2C66%2C106%2C97%2C37%2C126%2C33%2C99%2C12%2C148" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-696749402&amp;cx=c&amp;gtm=4e61m0h1"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5CQ7WCL"></script><script src="https://connect.facebook.net/signals/config/385286424143638?v=2.9.252&amp;r=stable&amp;domain=localhost&amp;hme=a2b1dd5145ee207019b7695e2ee204e1fa99fb97d553ed7ee626f2311efba0c0&amp;ex_m=95%2C157%2C135%2C20%2C67%2C68%2C128%2C63%2C42%2C129%2C72%2C62%2C10%2C142%2C81%2C15%2C94%2C123%2C116%2C70%2C73%2C122%2C139%2C103%2C144%2C7%2C3%2C4%2C6%2C5%2C2%2C82%2C92%2C145%2C225%2C169%2C56%2C227%2C228%2C49%2C184%2C27%2C69%2C233%2C232%2C172%2C29%2C55%2C9%2C58%2C88%2C89%2C90%2C96%2C119%2C28%2C26%2C121%2C118%2C117%2C136%2C71%2C138%2C137%2C44%2C54%2C112%2C14%2C141%2C39%2C214%2C216%2C179%2C23%2C24%2C25%2C17%2C18%2C38%2C34%2C36%2C35%2C77%2C83%2C87%2C101%2C127%2C130%2C40%2C102%2C21%2C19%2C108%2C64%2C32%2C132%2C131%2C133%2C124%2C22%2C31%2C53%2C100%2C140%2C65%2C16%2C134%2C105%2C76%2C61%2C30%2C194%2C164%2C284%2C212%2C155%2C197%2C190%2C165%2C98%2C120%2C75%2C110%2C48%2C41%2C43%2C104%2C109%2C115%2C52%2C59%2C114%2C47%2C50%2C46%2C91%2C143%2C0%2C113%2C13%2C111%2C11%2C1%2C51%2C84%2C57%2C60%2C107%2C80%2C79%2C146%2C147%2C85%2C86%2C8%2C93%2C45%2C125%2C78%2C74%2C66%2C106%2C97%2C37%2C126%2C33%2C99%2C12%2C148" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5CQ7WCL"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-1VERWEEG3M&amp;cx=c&amp;gtm=4e61m0h1"></script><script src="https://connect.facebook.net/signals/config/385286424143638?v=2.9.252&amp;r=stable&amp;domain=www.equifax.ec&amp;hme=a2b1dd5145ee207019b7695e2ee204e1fa99fb97d553ed7ee626f2311efba0c0&amp;ex_m=95%2C157%2C135%2C20%2C67%2C68%2C128%2C63%2C42%2C129%2C72%2C62%2C10%2C142%2C81%2C15%2C94%2C123%2C116%2C70%2C73%2C122%2C139%2C103%2C144%2C7%2C3%2C4%2C6%2C5%2C2%2C82%2C92%2C145%2C225%2C169%2C56%2C227%2C228%2C49%2C184%2C27%2C69%2C233%2C232%2C172%2C29%2C55%2C9%2C58%2C88%2C89%2C90%2C96%2C119%2C28%2C26%2C121%2C118%2C117%2C136%2C71%2C138%2C137%2C44%2C54%2C112%2C14%2C141%2C39%2C214%2C216%2C179%2C23%2C24%2C25%2C17%2C18%2C38%2C34%2C36%2C35%2C77%2C83%2C87%2C101%2C127%2C130%2C40%2C102%2C21%2C19%2C108%2C64%2C32%2C132%2C131%2C133%2C124%2C22%2C31%2C53%2C100%2C140%2C65%2C16%2C134%2C105%2C76%2C61%2C30%2C194%2C164%2C284%2C212%2C155%2C197%2C190%2C165%2C98%2C120%2C75%2C110%2C48%2C41%2C43%2C104%2C109%2C115%2C52%2C59%2C114%2C47%2C50%2C46%2C91%2C143%2C0%2C113%2C13%2C111%2C11%2C1%2C51%2C84%2C57%2C60%2C107%2C80%2C79%2C146%2C147%2C85%2C86%2C8%2C93%2C45%2C125%2C78%2C74%2C66%2C106%2C97%2C37%2C126%2C33%2C99%2C12%2C148" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-696749402&amp;cx=c&amp;gtm=4e61m0h1"></script><script type="text/javascript" async="" charset="utf-8" src="https://www.gstatic.com/recaptcha/releases/PoyoqOPhxBO7pBk68S4YbpHZ/recaptcha__es_419.js" crossorigin="anonymous" integrity="sha384-DJ7y8eQyYqeYqnXLljEBrSyR9FeEBikN06McRfYhClgGXEuFm3Cbn6bcnb7+tHsF"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5CQ7WCL"></script><script src="https://assets.equifax.com/global/js/jquery-3.7.1.min.js" rel="preload" as="script"></script>
-	<link href="https://assets.equifax.com/global/css/bootstrap-4.6.2.min.css" rel="preload stylesheet">
-	<script src="https://assets.equifax.com/global/js/bootstrap-4.6.2.bundle.min.js" rel="preload" as="script"></script>
-	<link rel="alternate" hreflang="en-EC" href="https://www.equifax.ec/empresas/"> <link rel="alternate" hreflang="x-default" href="https://www.equifax.ec/">
-	<!-- Google Tag Manager -->
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-5CQ7WCL');</script><script type="text/javascript" id="" charset="">var pv=1;sessionStorage.pv?(pv+=1,sessionStorage.setItem("pv",pv)):sessionStorage.pv||sessionStorage.setItem("pv",pv);</script>  <script type="text/javascript" id="" charset="">digitalData=window.digitalData||{};digitalData.events=digitalData.events||[];window.dataLayer=window.dataLayer||[];"undefined"==typeof _satellite&&(window._satellite={track:function(a){}});keyMerging=function(a,c,d){Array.isArray(a)||Object.keys(a).forEach(function(b){if("undefined"==typeof c[b]||("object"!=typeof a[b]||Array.isArray(a[b]))&&"products"!=b||"page"==b||1==d)c[b]=a[b];else return"products"==b&&"undefined"==typeof a[b][0].productID?keyMerging(a[b][0],c[b][0]):keyMerging(a[b],c[b]),!1})};
+  <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-1VERWEEG3M&amp;cx=c&amp;gtm=4e61m0"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-696749402&amp;cx=c&amp;gtm=4e61m0"></script><script src="https://connect.facebook.net/signals/config/385286424143638?v=2.9.252&amp;r=stable&amp;domain=localhost&amp;hme=a2b1dd5145ee207019b7695e2ee204e1fa99fb97d553ed7ee626f2311efba0c0&amp;ex_m=95%2C157%2C135%2C20%2C67%2C68%2C128%2C63%2C42%2C129%2C72%2C62%2C10%2C142%2C81%2C15%2C94%2C123%2C116%2C70%2C73%2C122%2C139%2C103%2C144%2C7%2C3%2C4%2C6%2C5%2C2%2C82%2C92%2C145%2C225%2C169%2C56%2C227%2C228%2C49%2C184%2C27%2C69%2C233%2C232%2C172%2C29%2C55%2C9%2C58%2C88%2C89%2C90%2C96%2C119%2C28%2C26%2C121%2C118%2C117%2C136%2C71%2C138%2C137%2C44%2C54%2C112%2C14%2C141%2C39%2C214%2C216%2C179%2C23%2C24%2C25%2C17%2C18%2C38%2C34%2C36%2C35%2C77%2C83%2C87%2C101%2C127%2C130%2C40%2C102%2C21%2C19%2C108%2C64%2C32%2C132%2C131%2C133%2C124%2C22%2C31%2C53%2C100%2C140%2C65%2C16%2C134%2C105%2C76%2C61%2C30%2C194%2C164%2C284%2C212%2C155%2C197%2C190%2C165%2C98%2C120%2C75%2C110%2C48%2C41%2C43%2C104%2C109%2C115%2C52%2C59%2C114%2C47%2C50%2C46%2C91%2C143%2C0%2C113%2C13%2C111%2C11%2C1%2C51%2C84%2C57%2C60%2C107%2C80%2C79%2C146%2C147%2C85%2C86%2C8%2C93%2C45%2C125%2C78%2C74%2C66%2C106%2C97%2C37%2C126%2C33%2C99%2C12%2C148" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5CQ7WCL"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5CQ7WCL"></script><script src="https://connect.facebook.net/signals/config/385286424143638?v=2.9.252&amp;r=stable&amp;domain=localhost&amp;hme=a2b1dd5145ee207019b7695e2ee204e1fa99fb97d553ed7ee626f2311efba0c0&amp;ex_m=95%2C157%2C135%2C20%2C67%2C68%2C128%2C63%2C42%2C129%2C72%2C62%2C10%2C142%2C81%2C15%2C94%2C123%2C116%2C70%2C73%2C122%2C139%2C103%2C144%2C7%2C3%2C4%2C6%2C5%2C2%2C82%2C92%2C145%2C225%2C169%2C56%2C227%2C228%2C49%2C184%2C27%2C69%2C233%2C232%2C172%2C29%2C55%2C9%2C58%2C88%2C89%2C90%2C96%2C119%2C28%2C26%2C121%2C118%2C117%2C136%2C71%2C138%2C137%2C44%2C54%2C112%2C14%2C141%2C39%2C214%2C216%2C179%2C23%2C24%2C25%2C17%2C18%2C38%2C34%2C36%2C35%2C77%2C83%2C87%2C101%2C127%2C130%2C40%2C102%2C21%2C19%2C108%2C64%2C32%2C132%2C131%2C133%2C124%2C22%2C31%2C53%2C100%2C140%2C65%2C16%2C134%2C105%2C76%2C61%2C30%2C194%2C164%2C284%2C212%2C155%2C197%2C190%2C165%2C98%2C120%2C75%2C110%2C48%2C41%2C43%2C104%2C109%2C115%2C52%2C59%2C114%2C47%2C50%2C46%2C91%2C143%2C0%2C113%2C13%2C111%2C11%2C1%2C51%2C84%2C57%2C60%2C107%2C80%2C79%2C146%2C147%2C85%2C86%2C8%2C93%2C45%2C125%2C78%2C74%2C66%2C106%2C97%2C37%2C126%2C33%2C99%2C12%2C148" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-696749402&amp;cx=c&amp;gtm=4e61m0"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5CQ7WCL"></script><script src="https://connect.facebook.net/signals/config/385286424143638?v=2.9.252&amp;r=stable&amp;domain=localhost&amp;hme=a2b1dd5145ee207019b7695e2ee204e1fa99fb97d553ed7ee626f2311efba0c0&amp;ex_m=95%2C157%2C135%2C20%2C67%2C68%2C128%2C63%2C42%2C129%2C72%2C62%2C10%2C142%2C81%2C15%2C94%2C123%2C116%2C70%2C73%2C122%2C139%2C103%2C144%2C7%2C3%2C4%2C6%2C5%2C2%2C82%2C92%2C145%2C225%2C169%2C56%2C227%2C228%2C49%2C184%2C27%2C69%2C233%2C232%2C172%2C29%2C55%2C9%2C58%2C88%2C89%2C90%2C96%2C119%2C28%2C26%2C121%2C118%2C117%2C136%2C71%2C138%2C137%2C44%2C54%2C112%2C14%2C141%2C39%2C214%2C216%2C179%2C23%2C24%2C25%2C17%2C18%2C38%2C34%2C36%2C35%2C77%2C83%2C87%2C101%2C127%2C130%2C40%2C102%2C21%2C19%2C108%2C64%2C32%2C132%2C131%2C133%2C124%2C22%2C31%2C53%2C100%2C140%2C65%2C16%2C134%2C105%2C76%2C61%2C30%2C194%2C164%2C284%2C212%2C155%2C197%2C190%2C165%2C98%2C120%2C75%2C110%2C48%2C41%2C43%2C104%2C109%2C115%2C52%2C59%2C114%2C47%2C50%2C46%2C91%2C143%2C0%2C113%2C13%2C111%2C11%2C1%2C51%2C84%2C57%2C60%2C107%2C80%2C79%2C146%2C147%2C85%2C86%2C8%2C93%2C45%2C125%2C78%2C74%2C66%2C106%2C97%2C37%2C126%2C33%2C99%2C12%2C148" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="https://connect.facebook.net/signals/config/385286424143638?v=2.9.252&amp;r=stable&amp;domain=localhost&amp;hme=a2b1dd5145ee207019b7695e2ee204e1fa99fb97d553ed7ee626f2311efba0c0&amp;ex_m=95%2C157%2C135%2C20%2C67%2C68%2C128%2C63%2C42%2C129%2C72%2C62%2C10%2C142%2C81%2C15%2C94%2C123%2C116%2C70%2C73%2C122%2C139%2C103%2C144%2C7%2C3%2C4%2C6%2C5%2C2%2C82%2C92%2C145%2C225%2C169%2C56%2C227%2C228%2C49%2C184%2C27%2C69%2C233%2C232%2C172%2C29%2C55%2C9%2C58%2C88%2C89%2C90%2C96%2C119%2C28%2C26%2C121%2C118%2C117%2C136%2C71%2C138%2C137%2C44%2C54%2C112%2C14%2C141%2C39%2C214%2C216%2C179%2C23%2C24%2C25%2C17%2C18%2C38%2C34%2C36%2C35%2C77%2C83%2C87%2C101%2C127%2C130%2C40%2C102%2C21%2C19%2C108%2C64%2C32%2C132%2C131%2C133%2C124%2C22%2C31%2C53%2C100%2C140%2C65%2C16%2C134%2C105%2C76%2C61%2C30%2C194%2C164%2C284%2C212%2C155%2C197%2C190%2C165%2C98%2C120%2C75%2C110%2C48%2C41%2C43%2C104%2C109%2C115%2C52%2C59%2C114%2C47%2C50%2C46%2C91%2C143%2C0%2C113%2C13%2C111%2C11%2C1%2C51%2C84%2C57%2C60%2C107%2C80%2C79%2C146%2C147%2C85%2C86%2C8%2C93%2C45%2C125%2C78%2C74%2C66%2C106%2C97%2C37%2C126%2C33%2C99%2C12%2C148" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5CQ7WCL"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5CQ7WCL"></script><script src="https://connect.facebook.net/signals/config/385286424143638?v=2.9.252&amp;r=stable&amp;domain=localhost&amp;hme=a2b1dd5145ee207019b7695e2ee204e1fa99fb97d553ed7ee626f2311efba0c0&amp;ex_m=95%2C157%2C135%2C20%2C67%2C68%2C128%2C63%2C42%2C129%2C72%2C62%2C10%2C142%2C81%2C15%2C94%2C123%2C116%2C70%2C73%2C122%2C139%2C103%2C144%2C7%2C3%2C4%2C6%2C5%2C2%2C82%2C92%2C145%2C225%2C169%2C56%2C227%2C228%2C49%2C184%2C27%2C69%2C233%2C232%2C172%2C29%2C55%2C9%2C58%2C88%2C89%2C90%2C96%2C119%2C28%2C26%2C121%2C118%2C117%2C136%2C71%2C138%2C137%2C44%2C54%2C112%2C14%2C141%2C39%2C214%2C216%2C179%2C23%2C24%2C25%2C17%2C18%2C38%2C34%2C36%2C35%2C77%2C83%2C87%2C101%2C127%2C130%2C40%2C102%2C21%2C19%2C108%2C64%2C32%2C132%2C131%2C133%2C124%2C22%2C31%2C53%2C100%2C140%2C65%2C16%2C134%2C105%2C76%2C61%2C30%2C194%2C164%2C284%2C212%2C155%2C197%2C190%2C165%2C98%2C120%2C75%2C110%2C48%2C41%2C43%2C104%2C109%2C115%2C52%2C59%2C114%2C47%2C50%2C46%2C91%2C143%2C0%2C113%2C13%2C111%2C11%2C1%2C51%2C84%2C57%2C60%2C107%2C80%2C79%2C146%2C147%2C85%2C86%2C8%2C93%2C45%2C125%2C78%2C74%2C66%2C106%2C97%2C37%2C126%2C33%2C99%2C12%2C148" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5CQ7WCL"></script><script src="https://connect.facebook.net/signals/config/385286424143638?v=2.9.252&amp;r=stable&amp;domain=localhost&amp;hme=a2b1dd5145ee207019b7695e2ee204e1fa99fb97d553ed7ee626f2311efba0c0&amp;ex_m=95%2C157%2C135%2C20%2C67%2C68%2C128%2C63%2C42%2C129%2C72%2C62%2C10%2C142%2C81%2C15%2C94%2C123%2C116%2C70%2C73%2C122%2C139%2C103%2C144%2C7%2C3%2C4%2C6%2C5%2C2%2C82%2C92%2C145%2C225%2C169%2C56%2C227%2C228%2C49%2C184%2C27%2C69%2C233%2C232%2C172%2C29%2C55%2C9%2C58%2C88%2C89%2C90%2C96%2C119%2C28%2C26%2C121%2C118%2C117%2C136%2C71%2C138%2C137%2C44%2C54%2C112%2C14%2C141%2C39%2C214%2C216%2C179%2C23%2C24%2C25%2C17%2C18%2C38%2C34%2C36%2C35%2C77%2C83%2C87%2C101%2C127%2C130%2C40%2C102%2C21%2C19%2C108%2C64%2C32%2C132%2C131%2C133%2C124%2C22%2C31%2C53%2C100%2C140%2C65%2C16%2C134%2C105%2C76%2C61%2C30%2C194%2C164%2C284%2C212%2C155%2C197%2C190%2C165%2C98%2C120%2C75%2C110%2C48%2C41%2C43%2C104%2C109%2C115%2C52%2C59%2C114%2C47%2C50%2C46%2C91%2C143%2C0%2C113%2C13%2C111%2C11%2C1%2C51%2C84%2C57%2C60%2C107%2C80%2C79%2C146%2C147%2C85%2C86%2C8%2C93%2C45%2C125%2C78%2C74%2C66%2C106%2C97%2C37%2C126%2C33%2C99%2C12%2C148" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="https://connect.facebook.net/signals/config/385286424143638?v=2.9.252&amp;r=stable&amp;domain=localhost&amp;hme=a2b1dd5145ee207019b7695e2ee204e1fa99fb97d553ed7ee626f2311efba0c0&amp;ex_m=95%2C157%2C135%2C20%2C67%2C68%2C128%2C63%2C42%2C129%2C72%2C62%2C10%2C142%2C81%2C15%2C94%2C123%2C116%2C70%2C73%2C122%2C139%2C103%2C144%2C7%2C3%2C4%2C6%2C5%2C2%2C82%2C92%2C145%2C225%2C169%2C56%2C227%2C228%2C49%2C184%2C27%2C69%2C233%2C232%2C172%2C29%2C55%2C9%2C58%2C88%2C89%2C90%2C96%2C119%2C28%2C26%2C121%2C118%2C117%2C136%2C71%2C138%2C137%2C44%2C54%2C112%2C14%2C141%2C39%2C214%2C216%2C179%2C23%2C24%2C25%2C17%2C18%2C38%2C34%2C36%2C35%2C77%2C83%2C87%2C101%2C127%2C130%2C40%2C102%2C21%2C19%2C108%2C64%2C32%2C132%2C131%2C133%2C124%2C22%2C31%2C53%2C100%2C140%2C65%2C16%2C134%2C105%2C76%2C61%2C30%2C194%2C164%2C284%2C212%2C155%2C197%2C190%2C165%2C98%2C120%2C75%2C110%2C48%2C41%2C43%2C104%2C109%2C115%2C52%2C59%2C114%2C47%2C50%2C46%2C91%2C143%2C0%2C113%2C13%2C111%2C11%2C1%2C51%2C84%2C57%2C60%2C107%2C80%2C79%2C146%2C147%2C85%2C86%2C8%2C93%2C45%2C125%2C78%2C74%2C66%2C106%2C97%2C37%2C126%2C33%2C99%2C12%2C148" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-696749402&amp;cx=c&amp;gtm=4e61m0h1"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5CQ7WCL"></script><script src="https://connect.facebook.net/signals/config/385286424143638?v=2.9.252&amp;r=stable&amp;domain=localhost&amp;hme=a2b1dd5145ee207019b7695e2ee204e1fa99fb97d553ed7ee626f2311efba0c0&amp;ex_m=95%2C157%2C135%2C20%2C67%2C68%2C128%2C63%2C42%2C129%2C72%2C62%2C10%2C142%2C81%2C15%2C94%2C123%2C116%2C70%2C73%2C122%2C139%2C103%2C144%2C7%2C3%2C4%2C6%2C5%2C2%2C82%2C92%2C145%2C225%2C169%2C56%2C227%2C228%2C49%2C184%2C27%2C69%2C233%2C232%2C172%2C29%2C55%2C9%2C58%2C88%2C89%2C90%2C96%2C119%2C28%2C26%2C121%2C118%2C117%2C136%2C71%2C138%2C137%2C44%2C54%2C112%2C14%2C141%2C39%2C214%2C216%2C179%2C23%2C24%2C25%2C17%2C18%2C38%2C34%2C36%2C35%2C77%2C83%2C87%2C101%2C127%2C130%2C40%2C102%2C21%2C19%2C108%2C64%2C32%2C132%2C131%2C133%2C124%2C22%2C31%2C53%2C100%2C140%2C65%2C16%2C134%2C105%2C76%2C61%2C30%2C194%2C164%2C284%2C212%2C155%2C197%2C190%2C165%2C98%2C120%2C75%2C110%2C48%2C41%2C43%2C104%2C109%2C115%2C52%2C59%2C114%2C47%2C50%2C46%2C91%2C143%2C0%2C113%2C13%2C111%2C11%2C1%2C51%2C84%2C57%2C60%2C107%2C80%2C79%2C146%2C147%2C85%2C86%2C8%2C93%2C45%2C125%2C78%2C74%2C66%2C106%2C97%2C37%2C126%2C33%2C99%2C12%2C148" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5CQ7WCL"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-1VERWEEG3M&amp;cx=c&amp;gtm=4e61m0h1"></script><script src="https://connect.facebook.net/signals/config/385286424143638?v=2.9.252&amp;r=stable&amp;domain=www.equifax.ec&amp;hme=a2b1dd5145ee207019b7695e2ee204e1fa99fb97d553ed7ee626f2311efba0c0&amp;ex_m=95%2C157%2C135%2C20%2C67%2C68%2C128%2C63%2C42%2C129%2C72%2C62%2C10%2C142%2C81%2C15%2C94%2C123%2C116%2C70%2C73%2C122%2C139%2C103%2C144%2C7%2C3%2C4%2C6%2C5%2C2%2C82%2C92%2C145%2C225%2C169%2C56%2C227%2C228%2C49%2C184%2C27%2C69%2C233%2C232%2C172%2C29%2C55%2C9%2C58%2C88%2C89%2C90%2C96%2C119%2C28%2C26%2C121%2C118%2C117%2C136%2C71%2C138%2C137%2C44%2C54%2C112%2C14%2C141%2C39%2C214%2C216%2C179%2C23%2C24%2C25%2C17%2C18%2C38%2C34%2C36%2C35%2C77%2C83%2C87%2C101%2C127%2C130%2C40%2C102%2C21%2C19%2C108%2C64%2C32%2C132%2C131%2C133%2C124%2C22%2C31%2C53%2C100%2C140%2C65%2C16%2C134%2C105%2C76%2C61%2C30%2C194%2C164%2C284%2C212%2C155%2C197%2C190%2C165%2C98%2C120%2C75%2C110%2C48%2C41%2C43%2C104%2C109%2C115%2C52%2C59%2C114%2C47%2C50%2C46%2C91%2C143%2C0%2C113%2C13%2C111%2C11%2C1%2C51%2C84%2C57%2C60%2C107%2C80%2C79%2C146%2C147%2C85%2C86%2C8%2C93%2C45%2C125%2C78%2C74%2C66%2C106%2C97%2C37%2C126%2C33%2C99%2C12%2C148" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-696749402&amp;cx=c&amp;gtm=4e61m0h1"></script><script type="text/javascript" async="" charset="utf-8" src="https://www.gstatic.com/recaptcha/releases/PoyoqOPhxBO7pBk68S4YbpHZ/recaptcha__es_419.js" crossorigin="anonymous" integrity="sha384-DJ7y8eQyYqeYqnXLljEBrSyR9FeEBikN06McRfYhClgGXEuFm3Cbn6bcnb7+tHsF"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5CQ7WCL"></script><script src="https://assets.equifax.com/global/js/jquery-3.7.1.min.js" rel="preload" as="script"></script>
+  <link href="https://assets.equifax.com/global/css/bootstrap-4.6.2.min.css" rel="preload stylesheet">
+  <script src="https://assets.equifax.com/global/js/bootstrap-4.6.2.bundle.min.js" rel="preload" as="script"></script>
+  <link rel="alternate" hreflang="en-EC" href="https://www.equifax.ec/empresas/"> <link rel="alternate" hreflang="x-default" href="https://www.equifax.ec/">
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-5CQ7WCL');</script><script type="text/javascript" id="" charset="">var pv=1;sessionStorage.pv?(pv+=1,sessionStorage.setItem("pv",pv)):sessionStorage.pv||sessionStorage.setItem("pv",pv);</script>  <script type="text/javascript" id="" charset="">digitalData=window.digitalData||{};digitalData.events=digitalData.events||[];window.dataLayer=window.dataLayer||[];"undefined"==typeof _satellite&&(window._satellite={track:function(a){}});keyMerging=function(a,c,d){Array.isArray(a)||Object.keys(a).forEach(function(b){if("undefined"==typeof c[b]||("object"!=typeof a[b]||Array.isArray(a[b]))&&"products"!=b||"page"==b||1==d)c[b]=a[b];else return"products"==b&&"undefined"==typeof a[b][0].productID?keyMerging(a[b][0],c[b][0]):keyMerging(a[b],c[b]),!1})};
 for(var i=0;i<digitalData.events.length;i++){var gtmObject=digitalData.events[i];digitalData.events[i].data&&keyMerging(digitalData.events[i].data,window.digitalData);if("undefined"!=typeof digitalData.events[i].eventAction||"undefined"!=typeof digitalData.events[i].event)gtmObject.event=digitalData.events[i].eventAction||digitalData.events[i].event,window.dataLayer.push(gtmObject)}
 window.digitalData.events.push=function(a){_satellite.track("all events",a);var c=a;a.data&&keyMerging(a.data,window.digitalData,"page view"==a.eventAction);"undefined"!=typeof a.eventAction||"undefined"!=typeof a.event?(c.event=a.eventAction||a.event,window.dataLayer.push(c),_satellite.track(c.event,a)):_satellite.track("unidentified event push",a);return Array.prototype.push.apply(this,arguments)};</script>
 <script type="text/javascript" id="" charset="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("set","autoConfig","false","385286424143638");fbq("init","385286424143638");fbq("track","PageView");</script>
@@ -4092,54 +4092,10 @@ window.digitalData.events.push=function(a){_satellite.track("all events",a);var 
 <script type="text/javascript" id="" charset="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("set","autoConfig","false","385286424143638");fbq("init","385286424143638");fbq("track","PageView");</script>
 <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=385286424143638&amp;ev=PageView&amp;noscript=1"></noscript><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe>
 
-	<script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/696749402/?random=1769397233903&amp;cv=11&amp;fst=1769397233903&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be61m0h1v9176722595z8866436022za200zd9176722595xea&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528500~104684208~104684211~105391253~115495938~115938465~115938469~116185179~116185180~116682875~116988315~117041587&amp;u_w=1536&amp;u_h=864&amp;url=http%3A%2F%2Flocalhost%2Fequi_aval%2Fequi%2Fpaginas%2Factualizacion_usuario.php&amp;frm=0&amp;tiba=Empresas%20%7C%20Equifax%20Ecuador&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1502805271.1767574426&amp;uaa=x86&amp;uab=64&amp;uafvl=Not(A%253ABrand%3B8.0.0.0%7CChromium%3B144.0.7559.97%7CGoogle%2520Chrome%3B144.0.7559.97&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;_tu=CA&amp;rfmt=3&amp;fmt=4"></script><!-- End Google Tag Manager -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/696749402/?random=1769397233903&amp;cv=11&amp;fst=1769397233903&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be61m0h1v9176722595z8866436022za200zd9176722595xea&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528500~104684208~104684211~105391253~115495938~115938465~115938469~116185179~116185180~116682875~116988315~117041587&amp;u_w=1536&amp;u_h=864&amp;url=http%3A%2F%2Flocalhost%2Fequi_aval%2Fequi%2Fpaginas%2Factualizacion_usuario.php&amp;frm=0&amp;tiba=Empresas%20%7C%20Equifax%20Ecuador&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1502805271.1767574426&amp;uaa=x86&amp;uab=64&amp;uafvl=Not(A%253ABrand%3B8.0.0.0%7CChromium%3B144.0.7559.97%7CGoogle%2520Chrome%3B144.0.7559.97&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;_tu=CA&amp;rfmt=3&amp;fmt=4"></script><!-- End Google Tag Manager -->
 
 <meta content="text/html; charset=UTF-8" http-equiv="content-type">
-
-
-
-
-
-
-
-
-
 <meta content="Transformamos datos en oportunidades. Conocé nuestros productos y servicios para la toma de decisiones en tu empresa." lang="es-ES" name="description">
-
-
 <script type="importmap">{"imports": {"@liferay/oauth2-provider-web/client":"/o/oauth2-provider-web/__liferay__/client.js","@liferay/dynamic-data-mapping-form-field-type/api":"/o/dynamic-data-mapping-form-field-type/__liferay__/api.js","@liferay/fragment-impl/api":"/o/fragment-impl/__liferay__/api.js","@liferay/frontend-js-api":"/o/frontend-js-dependencies-web/__liferay__/exports/@liferay$js-api.js","@liferay/frontend-js-api/data-set":"/o/frontend-js-dependencies-web/__liferay__/exports/@liferay$js-api$data-set.js","react-dom":"/o/frontend-js-react-web/__liferay__/exports/react-dom.js","react-dom-18":"/o/frontend-js-react-web/__liferay__/exports/react-dom-18.js","react-dom/client":"/o/frontend-js-react-web/__liferay__/exports/react-dom$client.js","react-dom-18/client":"/o/frontend-js-react-web/__liferay__/exports/react-dom-18$client.js","react":"/o/frontend-js-react-web/__liferay__/exports/react.js","react-16":"/o/frontend-js-react-web/__liferay__/exports/react-16.js","react-dom-16":"/o/frontend-js-react-web/__liferay__/exports/react-dom-16.js","react-18":"/o/frontend-js-react-web/__liferay__/exports/react-18.js","@clayui/breadcrumb":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$breadcrumb.js","@clayui/form":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$form.js","@clayui/popover":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$popover.js","@clayui/charts":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$charts.js","@clayui/shared":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$shared.js","@clayui/localized-input":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$localized-input.js","@clayui/modal":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$modal.js","@clayui/empty-state":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$empty-state.js","@clayui/color-picker":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$color-picker.js","@clayui/navigation-bar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$navigation-bar.js","@clayui/pagination":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$pagination.js","@clayui/icon":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$icon.js","@clayui/table":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$table.js","@clayui/autocomplete":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$autocomplete.js","@clayui/slider":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$slider.js","@clayui/management-toolbar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$management-toolbar.js","@clayui/multi-select":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$multi-select.js","@clayui/nav":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$nav.js","@clayui/time-picker":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$time-picker.js","@clayui/provider":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$provider.js","@clayui/upper-toolbar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$upper-toolbar.js","@clayui/loading-indicator":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$loading-indicator.js","@clayui/panel":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$panel.js","@clayui/drop-down":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$drop-down.js","@clayui/list":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$list.js","@clayui/date-picker":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$date-picker.js","@clayui/label":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$label.js","@clayui/data-provider":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$data-provider.js","@clayui/core":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$core.js","@clayui/pagination-bar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$pagination-bar.js","@clayui/layout":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$layout.js","@clayui/multi-step-nav":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$multi-step-nav.js","@clayui/css":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$css.js","@clayui/toolbar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$toolbar.js","@clayui/alert":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$alert.js","@clayui/badge":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$badge.js","@clayui/link":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$link.js","@clayui/card":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$card.js","@clayui/progress-bar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$progress-bar.js","@clayui/tooltip":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$tooltip.js","@clayui/button":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$button.js","@clayui/tabs":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$tabs.js","@clayui/sticker":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$sticker.js","@liferay/language/": "/o/js/language/"}, "scopes": {}}</script><link data-senna-track="temporary" href="https://www.equifax.ec/" rel="canonical">
 <link data-senna-track="temporary" href="https://www.equifax.ec/" hreflang="es-ES" rel="alternate">
 <link data-senna-track="temporary" href="https://www.equifax.ec/" hreflang="x-default" rel="alternate">
@@ -4176,7 +4132,7 @@ window.digitalData.events.push=function(a){_satellite.track("all events",a);var 
 
 
 
-	<link href="/combo?browserId=chrome&amp;minifierType=css&amp;themeId=evolutiongenerictheme_WAR_evolutiongenerictheme&amp;languageId=es_ES&amp;com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_templateSearch:%2Fo%2Fportal-search-web%2Fcss%2Fmain.css&amp;com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet:%2Fo%2Fproduct-navigation-product-menu-web%2Fcss%2Fmain.css&amp;com_liferay_product_navigation_user_personal_bar_web_portlet_ProductNavigationUserPersonalBarPortlet:%2Fo%2Fproduct-navigation-user-personal-bar-web%2Fcss%2Fmain.css&amp;com_liferay_segments_experiment_web_internal_portlet_SegmentsExperimentPortlet:%2Fo%2Fsegments-experiment-web%2Fcss%2Fmain.css&amp;com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet:%2Fo%2Fsite-navigation-menu-web%2Fcss%2Fmain.css&amp;t=1769130842000" rel="stylesheet" type="text/css" data-senna-track="temporary" id="3753f14f">
+  <link href="/combo?browserId=chrome&amp;minifierType=css&amp;themeId=evolutiongenerictheme_WAR_evolutiongenerictheme&amp;languageId=es_ES&amp;com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_templateSearch:%2Fo%2Fportal-search-web%2Fcss%2Fmain.css&amp;com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet:%2Fo%2Fproduct-navigation-product-menu-web%2Fcss%2Fmain.css&amp;com_liferay_product_navigation_user_personal_bar_web_portlet_ProductNavigationUserPersonalBarPortlet:%2Fo%2Fproduct-navigation-user-personal-bar-web%2Fcss%2Fmain.css&amp;com_liferay_segments_experiment_web_internal_portlet_SegmentsExperimentPortlet:%2Fo%2Fsegments-experiment-web%2Fcss%2Fmain.css&amp;com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet:%2Fo%2Fsite-navigation-menu-web%2Fcss%2Fmain.css&amp;t=1769130842000" rel="stylesheet" type="text/css" data-senna-track="temporary" id="3753f14f">
 
 
 
@@ -4187,56 +4143,56 @@ window.digitalData.events.push=function(a){_satellite.track("all events",a);var 
 
 <script data-senna-track="temporary" type="text/javascript">
 (function() {
-	function buildESMStub(contextPath, symbol) {
-		return (
-			(...args) => {
-				import(
-					Liferay.ThemeDisplay.getPathContext() +
-						'/o/' +
-						contextPath +
-						'/__liferay__/index.js'
-				).then(
-					(exports) => exports[symbol](...args)
-				);
-			}
-		);
-	}
+  function buildESMStub(contextPath, symbol) {
+    return (
+      (...args) => {
+        import(
+          Liferay.ThemeDisplay.getPathContext() +
+            '/o/' +
+            contextPath +
+            '/__liferay__/index.js'
+        ).then(
+          (exports) => exports[symbol](...args)
+        );
+      }
+    );
+  }
 
-	function defineReadOnlyGlobal(name, getValue) {
-		Object.defineProperty(
-			window,
-			name,
-			{
-				get: getValue,
-				set: (x) => {
-					if (x !== getValue()) {
-						console.error(`Global variable '${name}' is read-only`);
-					}
-				}
-			}
-		);
-	}
+  function defineReadOnlyGlobal(name, getValue) {
+    Object.defineProperty(
+      window,
+      name,
+      {
+        get: getValue,
+        set: (x) => {
+          if (x !== getValue()) {
+            console.error(`Global variable '${name}' is read-only`);
+          }
+        }
+      }
+    );
+  }
 
-	function isObject(item) {
-		return (item && typeof item === 'object' && !Array.isArray(item));
-	}
+  function isObject(item) {
+    return (item && typeof item === 'object' && !Array.isArray(item));
+  }
 
-	function merge(target, source) {
-		for (const key in source) {
-			if (isObject(source[key])) {
-				if (!target[key]) {
-					Object.assign(target, { [key]: {} });
-				}
+  function merge(target, source) {
+    for (const key in source) {
+      if (isObject(source[key])) {
+        if (!target[key]) {
+          Object.assign(target, { [key]: {} });
+        }
 
-				merge(target[key], source[key]);
-			}
+        merge(target[key], source[key]);
+      }
 else {
-				Object.assign(target, { [key]: source[key] });
-			}
-		}
-	}
+        Object.assign(target, { [key]: source[key] });
+      }
+    }
+  }
 
-	let __liferay = {
+  let __liferay = {
 AUI: {
 getCombine: () => true,
 getComboPath: () => '/combo/?browserId=chrome&minifierType=&languageId=es_ES&t=1769130775676&',
@@ -4379,11 +4335,11 @@ FeatureFlags: {
 'LRAC-15017': false,
 },
 Language: {
-	_cache:
-		window?.Liferay?.Language?._cache
-			? Liferay.Language._cache
-			: {},
-	available: {
+  _cache:
+    window?.Liferay?.Language?._cache
+      ? Liferay.Language._cache
+      : {},
+  available: {
 'en_US': 'English\x20\x28United\x20States\x29',
 'fr_FR': 'français\x20\x28France\x29',
 'pt_PT': 'português\x20\x28Portugal\x29',
@@ -4395,8 +4351,8 @@ Language: {
 'ko_KR': '한국어\x20\x28대한민국\x29',
 'tl_PH': 'Tagalog\x20\x28Philippines\x29',
 
-	},
-	direction: {
+  },
+  direction: {
 'en_US': 'ltr',
 'fr_FR': 'ltr',
 'pt_PT': 'ltr',
@@ -4408,17 +4364,17 @@ Language: {
 'ko_KR': 'ltr',
 'tl_PH': 'ltr',
 
-	},
-	get:
-		(key) => {
-			let value = Liferay.Language._cache[key];
+  },
+  get:
+    (key) => {
+      let value = Liferay.Language._cache[key];
 
-			if (value === undefined) {
-				value = key;
-			}
+      if (value === undefined) {
+        value = key;
+      }
 
-			return value;
-		},
+      return value;
+    },
 },
 Portlet: {
 openModal: buildESMStub('frontend-js-components-web', 'openPortletModal'),
@@ -4486,8 +4442,8 @@ isStatePopUp: () => false,
 },
 Util: {
 Window: {
-	_map: {},
-	getById: (id) => Liferay.Util.Window._map[id],
+  _map: {},
+  getById: (id) => Liferay.Util.Window._map[id],
 },
 openAlertModal: buildESMStub('frontend-js-components-web', 'openAlertModal'),
 openConfirmModal: buildESMStub('frontend-js-components-web', 'openConfirmModal'),
@@ -4500,15 +4456,15 @@ authToken: '24ECg6Rr',
 currentURL: '\x2f',
 currentURLEncoded: '\x252F',
 
-	};
+  };
 
-	if (window.Liferay) {
-		merge(window.Liferay, __liferay);
-	}
-	else {
-		defineReadOnlyGlobal('Liferay', () => __liferay);
-		defineReadOnlyGlobal('themeDisplay', () => window.Liferay.ThemeDisplay);
-	}
+  if (window.Liferay) {
+    merge(window.Liferay, __liferay);
+  }
+  else {
+    defineReadOnlyGlobal('Liferay', () => __liferay);
+    defineReadOnlyGlobal('themeDisplay', () => window.Liferay.ThemeDisplay);
+  }
 })();
 </script><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/696749402/?random=1769396996337&amp;cv=11&amp;fst=1769396996337&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be61m0h1v9176722595z8866436022za20gzb866436022zd866436022xea&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=102015666~103116026~103200004~104527906~104528500~104684208~104684211~105391252~115616985~115938466~115938469~116185179~116185180~116682875~117041588~117223565&amp;u_w=1536&amp;u_h=864&amp;url=http%3A%2F%2Flocalhost%2Fequi_aval%2Fequi%2Fpaginas%2Factualizacion_usuario.php&amp;ref=http%3A%2F%2Flocalhost%2Fequi_aval%2Fequi%2Fpaginas%2F&amp;frm=0&amp;tiba=Empresas%20%7C%20Equifax%20Ecuador&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1502805271.1767574426&amp;uaa=x86&amp;uab=64&amp;uafvl=Not(A%253ABrand%3B8.0.0.0%7CChromium%3B144.0.7559.97%7CGoogle%2520Chrome%3B144.0.7559.97&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;_tu=CA&amp;rfmt=3&amp;fmt=4"></script>
 <script data-senna-track="permanent" src="/combo?browserId=chrome&amp;minifierType=js&amp;languageId=es_ES&amp;t=1769130775676&amp;/o/frontend-js-aui-web/aui/aui/aui-min.js&amp;/o/frontend-js-aui-web/liferay/modules.js&amp;/o/frontend-js-aui-web/liferay/aui_sandbox.js&amp;/o/frontend-js-aui-web/aui/attribute-base/attribute-base-min.js&amp;/o/frontend-js-aui-web/aui/attribute-complex/attribute-complex-min.js&amp;/o/frontend-js-aui-web/aui/attribute-core/attribute-core-min.js&amp;/o/frontend-js-aui-web/aui/attribute-observable/attribute-observable-min.js&amp;/o/frontend-js-aui-web/aui/attribute-extras/attribute-extras-min.js&amp;/o/frontend-js-aui-web/aui/event-custom-base/event-custom-base-min.js&amp;/o/frontend-js-aui-web/aui/event-custom-complex/event-custom-complex-min.js&amp;/o/frontend-js-aui-web/aui/oop/oop-min.js&amp;/o/frontend-js-aui-web/aui/aui-base-lang/aui-base-lang-min.js&amp;/o/frontend-js-aui-web/liferay/dependency.js" type="text/javascript"></script>
@@ -4522,150 +4478,150 @@ currentURLEncoded: '\x252F',
  */
 
 (function () {
-	AUI().applyConfig({
-		groups: {
-			calendar: {
-				base: MODULE_PATH + '/js/legacy/',
-				combine: Liferay.AUI.getCombine(),
-				filter: Liferay.AUI.getFilterConfig(),
-				modules: {
-					'liferay-calendar-a11y': {
-						path: 'calendar_a11y.js',
-						requires: ['calendar'],
-					},
-					'liferay-calendar-container': {
-						path: 'calendar_container.js',
-						requires: [
-							'aui-alert',
-							'aui-base',
-							'aui-component',
-							'liferay-portlet-base',
-						],
-					},
-					'liferay-calendar-date-picker-sanitizer': {
-						path: 'date_picker_sanitizer.js',
-						requires: ['aui-base'],
-					},
-					'liferay-calendar-interval-selector': {
-						path: 'interval_selector.js',
-						requires: ['aui-base', 'liferay-portlet-base'],
-					},
-					'liferay-calendar-interval-selector-scheduler-event-link': {
-						path: 'interval_selector_scheduler_event_link.js',
-						requires: ['aui-base', 'liferay-portlet-base'],
-					},
-					'liferay-calendar-list': {
-						path: 'calendar_list.js',
-						requires: [
-							'aui-template-deprecated',
-							'liferay-scheduler',
-						],
-					},
-					'liferay-calendar-message-util': {
-						path: 'message_util.js',
-						requires: ['liferay-util-window'],
-					},
-					'liferay-calendar-recurrence-converter': {
-						path: 'recurrence_converter.js',
-						requires: [],
-					},
-					'liferay-calendar-recurrence-dialog': {
-						path: 'recurrence.js',
-						requires: [
-							'aui-base',
-							'liferay-calendar-recurrence-util',
-						],
-					},
-					'liferay-calendar-recurrence-util': {
-						path: 'recurrence_util.js',
-						requires: ['aui-base', 'liferay-util-window'],
-					},
-					'liferay-calendar-reminders': {
-						path: 'calendar_reminders.js',
-						requires: ['aui-base'],
-					},
-					'liferay-calendar-remote-services': {
-						path: 'remote_services.js',
-						requires: [
-							'aui-base',
-							'aui-component',
-							'liferay-calendar-util',
-							'liferay-portlet-base',
-						],
-					},
-					'liferay-calendar-session-listener': {
-						path: 'session_listener.js',
-						requires: ['aui-base', 'liferay-scheduler'],
-					},
-					'liferay-calendar-simple-color-picker': {
-						path: 'simple_color_picker.js',
-						requires: ['aui-base', 'aui-template-deprecated'],
-					},
-					'liferay-calendar-simple-menu': {
-						path: 'simple_menu.js',
-						requires: [
-							'aui-base',
-							'aui-template-deprecated',
-							'event-outside',
-							'event-touch',
-							'widget-modality',
-							'widget-position',
-							'widget-position-align',
-							'widget-position-constrain',
-							'widget-stack',
-							'widget-stdmod',
-						],
-					},
-					'liferay-calendar-util': {
-						path: 'calendar_util.js',
-						requires: [
-							'aui-datatype',
-							'aui-io',
-							'aui-scheduler',
-							'aui-toolbar',
-							'autocomplete',
-							'autocomplete-highlighters',
-						],
-					},
-					'liferay-scheduler': {
-						path: 'scheduler.js',
-						requires: [
-							'async-queue',
-							'aui-datatype',
-							'aui-scheduler',
-							'dd-plugin',
-							'liferay-calendar-a11y',
-							'liferay-calendar-message-util',
-							'liferay-calendar-recurrence-converter',
-							'liferay-calendar-recurrence-util',
-							'liferay-calendar-util',
-							'liferay-scheduler-event-recorder',
-							'liferay-scheduler-models',
-							'promise',
-							'resize-plugin',
-						],
-					},
-					'liferay-scheduler-event-recorder': {
-						path: 'scheduler_event_recorder.js',
-						requires: [
-							'dd-plugin',
-							'liferay-calendar-util',
-							'resize-plugin',
-						],
-					},
-					'liferay-scheduler-models': {
-						path: 'scheduler_models.js',
-						requires: [
-							'aui-datatype',
-							'dd-plugin',
-							'liferay-calendar-util',
-						],
-					},
-				},
-				root: MODULE_PATH + '/js/legacy/',
-			},
-		},
-	});
+  AUI().applyConfig({
+    groups: {
+      calendar: {
+        base: MODULE_PATH + '/js/legacy/',
+        combine: Liferay.AUI.getCombine(),
+        filter: Liferay.AUI.getFilterConfig(),
+        modules: {
+          'liferay-calendar-a11y': {
+            path: 'calendar_a11y.js',
+            requires: ['calendar'],
+          },
+          'liferay-calendar-container': {
+            path: 'calendar_container.js',
+            requires: [
+              'aui-alert',
+              'aui-base',
+              'aui-component',
+              'liferay-portlet-base',
+            ],
+          },
+          'liferay-calendar-date-picker-sanitizer': {
+            path: 'date_picker_sanitizer.js',
+            requires: ['aui-base'],
+          },
+          'liferay-calendar-interval-selector': {
+            path: 'interval_selector.js',
+            requires: ['aui-base', 'liferay-portlet-base'],
+          },
+          'liferay-calendar-interval-selector-scheduler-event-link': {
+            path: 'interval_selector_scheduler_event_link.js',
+            requires: ['aui-base', 'liferay-portlet-base'],
+          },
+          'liferay-calendar-list': {
+            path: 'calendar_list.js',
+            requires: [
+              'aui-template-deprecated',
+              'liferay-scheduler',
+            ],
+          },
+          'liferay-calendar-message-util': {
+            path: 'message_util.js',
+            requires: ['liferay-util-window'],
+          },
+          'liferay-calendar-recurrence-converter': {
+            path: 'recurrence_converter.js',
+            requires: [],
+          },
+          'liferay-calendar-recurrence-dialog': {
+            path: 'recurrence.js',
+            requires: [
+              'aui-base',
+              'liferay-calendar-recurrence-util',
+            ],
+          },
+          'liferay-calendar-recurrence-util': {
+            path: 'recurrence_util.js',
+            requires: ['aui-base', 'liferay-util-window'],
+          },
+          'liferay-calendar-reminders': {
+            path: 'calendar_reminders.js',
+            requires: ['aui-base'],
+          },
+          'liferay-calendar-remote-services': {
+            path: 'remote_services.js',
+            requires: [
+              'aui-base',
+              'aui-component',
+              'liferay-calendar-util',
+              'liferay-portlet-base',
+            ],
+          },
+          'liferay-calendar-session-listener': {
+            path: 'session_listener.js',
+            requires: ['aui-base', 'liferay-scheduler'],
+          },
+          'liferay-calendar-simple-color-picker': {
+            path: 'simple_color_picker.js',
+            requires: ['aui-base', 'aui-template-deprecated'],
+          },
+          'liferay-calendar-simple-menu': {
+            path: 'simple_menu.js',
+            requires: [
+              'aui-base',
+              'aui-template-deprecated',
+              'event-outside',
+              'event-touch',
+              'widget-modality',
+              'widget-position',
+              'widget-position-align',
+              'widget-position-constrain',
+              'widget-stack',
+              'widget-stdmod',
+            ],
+          },
+          'liferay-calendar-util': {
+            path: 'calendar_util.js',
+            requires: [
+              'aui-datatype',
+              'aui-io',
+              'aui-scheduler',
+              'aui-toolbar',
+              'autocomplete',
+              'autocomplete-highlighters',
+            ],
+          },
+          'liferay-scheduler': {
+            path: 'scheduler.js',
+            requires: [
+              'async-queue',
+              'aui-datatype',
+              'aui-scheduler',
+              'dd-plugin',
+              'liferay-calendar-a11y',
+              'liferay-calendar-message-util',
+              'liferay-calendar-recurrence-converter',
+              'liferay-calendar-recurrence-util',
+              'liferay-calendar-util',
+              'liferay-scheduler-event-recorder',
+              'liferay-scheduler-models',
+              'promise',
+              'resize-plugin',
+            ],
+          },
+          'liferay-scheduler-event-recorder': {
+            path: 'scheduler_event_recorder.js',
+            requires: [
+              'dd-plugin',
+              'liferay-calendar-util',
+              'resize-plugin',
+            ],
+          },
+          'liferay-scheduler-models': {
+            path: 'scheduler_models.js',
+            requires: [
+              'aui-datatype',
+              'dd-plugin',
+              'liferay-calendar-util',
+            ],
+          },
+        },
+        root: MODULE_PATH + '/js/legacy/',
+      },
+    },
+  });
 })();
 } catch(error) {console.error(error);}try {var MODULE_MAIN='contacts-web@5.0.69/index';var MODULE_PATH='/o/contacts-web';/**
  * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
@@ -4673,30 +4629,30 @@ currentURLEncoded: '\x252F',
  */
 
 (function () {
-	AUI().applyConfig({
-		groups: {
-			contactscenter: {
-				base: MODULE_PATH + '/js/legacy/',
-				combine: Liferay.AUI.getCombine(),
-				filter: Liferay.AUI.getFilterConfig(),
-				modules: {
-					'liferay-contacts-center': {
-						path: 'main.js',
-						requires: [
-							'aui-io-plugin-deprecated',
-							'aui-toolbar',
-							'autocomplete-base',
-							'datasource-io',
-							'json-parse',
-							'liferay-portlet-base',
-							'liferay-util-window',
-						],
-					},
-				},
-				root: MODULE_PATH + '/js/legacy/',
-			},
-		},
-	});
+  AUI().applyConfig({
+    groups: {
+      contactscenter: {
+        base: MODULE_PATH + '/js/legacy/',
+        combine: Liferay.AUI.getCombine(),
+        filter: Liferay.AUI.getFilterConfig(),
+        modules: {
+          'liferay-contacts-center': {
+            path: 'main.js',
+            requires: [
+              'aui-io-plugin-deprecated',
+              'aui-toolbar',
+              'autocomplete-base',
+              'datasource-io',
+              'json-parse',
+              'liferay-portlet-base',
+              'liferay-util-window',
+            ],
+          },
+        },
+        root: MODULE_PATH + '/js/legacy/',
+      },
+    },
+  });
 })();
 } catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/document-library-web@6.0.208/index';var MODULE_PATH='/o/document-library-web';/**
  * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
@@ -4704,33 +4660,33 @@ currentURLEncoded: '\x252F',
  */
 
 (function () {
-	AUI().applyConfig({
-		groups: {
-			dl: {
-				base: MODULE_PATH + '/js/legacy/',
-				combine: Liferay.AUI.getCombine(),
-				filter: Liferay.AUI.getFilterConfig(),
-				modules: {
-					'document-library-upload-component': {
-						path: 'DocumentLibraryUpload.js',
-						requires: [
-							'aui-component',
-							'aui-data-set-deprecated',
-							'aui-overlay-manager-deprecated',
-							'aui-overlay-mask-deprecated',
-							'aui-parse-content',
-							'aui-progressbar',
-							'aui-template-deprecated',
-							'liferay-search-container',
-							'querystring-parse-simple',
-							'uploader',
-						],
-					},
-				},
-				root: MODULE_PATH + '/js/legacy/',
-			},
-		},
-	});
+  AUI().applyConfig({
+    groups: {
+      dl: {
+        base: MODULE_PATH + '/js/legacy/',
+        combine: Liferay.AUI.getCombine(),
+        filter: Liferay.AUI.getFilterConfig(),
+        modules: {
+          'document-library-upload-component': {
+            path: 'DocumentLibraryUpload.js',
+            requires: [
+              'aui-component',
+              'aui-data-set-deprecated',
+              'aui-overlay-manager-deprecated',
+              'aui-overlay-mask-deprecated',
+              'aui-parse-content',
+              'aui-progressbar',
+              'aui-template-deprecated',
+              'liferay-search-container',
+              'querystring-parse-simple',
+              'uploader',
+            ],
+          },
+        },
+        root: MODULE_PATH + '/js/legacy/',
+      },
+    },
+  });
 })();
 } catch(error) {console.error(error);}try {var MODULE_MAIN='dynamic-data-mapping-web@5.0.123/index';var MODULE_PATH='/o/dynamic-data-mapping-web';/**
  * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
@@ -4738,66 +4694,66 @@ currentURLEncoded: '\x252F',
  */
 
 (function () {
-	const LiferayAUI = Liferay.AUI;
+  const LiferayAUI = Liferay.AUI;
 
-	AUI().applyConfig({
-		groups: {
-			ddm: {
-				base: MODULE_PATH + '/js/legacy/',
-				combine: Liferay.AUI.getCombine(),
-				filter: LiferayAUI.getFilterConfig(),
-				modules: {
-					'liferay-ddm-form': {
-						path: 'ddm_form.js',
-						requires: [
-							'aui-base',
-							'aui-datatable',
-							'aui-datatype',
-							'aui-image-viewer',
-							'aui-parse-content',
-							'aui-set',
-							'aui-sortable-list',
-							'json',
-							'liferay-form',
-							'liferay-map-base',
-							'liferay-translation-manager',
-							'liferay-util-window',
-						],
-					},
-					'liferay-portlet-dynamic-data-mapping': {
-						condition: {
-							trigger: 'liferay-document-library',
-						},
-						path: 'main.js',
-						requires: [
-							'arraysort',
-							'aui-form-builder-deprecated',
-							'aui-form-validator',
-							'aui-map',
-							'aui-text-unicode',
-							'json',
-							'liferay-menu',
-							'liferay-translation-manager',
-							'liferay-util-window',
-							'text',
-						],
-					},
-					'liferay-portlet-dynamic-data-mapping-custom-fields': {
-						condition: {
-							trigger: 'liferay-document-library',
-						},
-						path: 'custom_fields.js',
-						requires: ['liferay-portlet-dynamic-data-mapping'],
-					},
-					'liferay-translation-manager': {
-						path: 'translation_manager.js',
-						requires: ['aui-base'],
-					},
-				},
-				root: MODULE_PATH + '/js/legacy/',
-			},
-		},
-	});
+  AUI().applyConfig({
+    groups: {
+      ddm: {
+        base: MODULE_PATH + '/js/legacy/',
+        combine: Liferay.AUI.getCombine(),
+        filter: LiferayAUI.getFilterConfig(),
+        modules: {
+          'liferay-ddm-form': {
+            path: 'ddm_form.js',
+            requires: [
+              'aui-base',
+              'aui-datatable',
+              'aui-datatype',
+              'aui-image-viewer',
+              'aui-parse-content',
+              'aui-set',
+              'aui-sortable-list',
+              'json',
+              'liferay-form',
+              'liferay-map-base',
+              'liferay-translation-manager',
+              'liferay-util-window',
+            ],
+          },
+          'liferay-portlet-dynamic-data-mapping': {
+            condition: {
+              trigger: 'liferay-document-library',
+            },
+            path: 'main.js',
+            requires: [
+              'arraysort',
+              'aui-form-builder-deprecated',
+              'aui-form-validator',
+              'aui-map',
+              'aui-text-unicode',
+              'json',
+              'liferay-menu',
+              'liferay-translation-manager',
+              'liferay-util-window',
+              'text',
+            ],
+          },
+          'liferay-portlet-dynamic-data-mapping-custom-fields': {
+            condition: {
+              trigger: 'liferay-document-library',
+            },
+            path: 'custom_fields.js',
+            requires: ['liferay-portlet-dynamic-data-mapping'],
+          },
+          'liferay-translation-manager': {
+            path: 'translation_manager.js',
+            requires: ['aui-base'],
+          },
+        },
+        root: MODULE_PATH + '/js/legacy/',
+      },
+    },
+  });
 })();
 } catch(error) {console.error(error);}try {var MODULE_MAIN='exportimport-web@5.0.107/index';var MODULE_PATH='/o/exportimport-web';/**
  * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
@@ -4805,30 +4761,30 @@ currentURLEncoded: '\x252F',
  */
 
 (function () {
-	AUI().applyConfig({
-		groups: {
-			exportimportweb: {
-				base: MODULE_PATH + '/js/legacy/',
-				combine: Liferay.AUI.getCombine(),
-				filter: Liferay.AUI.getFilterConfig(),
-				modules: {
-					'liferay-export-import-export-import': {
-						path: 'main.js',
-						requires: [
-							'aui-datatype',
-							'aui-dialog-iframe-deprecated',
-							'aui-modal',
-							'aui-parse-content',
-							'aui-toggler',
-							'liferay-portlet-base',
-							'liferay-util-window',
-						],
-					},
-				},
-				root: MODULE_PATH + '/js/legacy/',
-			},
-		},
-	});
+  AUI().applyConfig({
+    groups: {
+      exportimportweb: {
+        base: MODULE_PATH + '/js/legacy/',
+        combine: Liferay.AUI.getCombine(),
+        filter: Liferay.AUI.getFilterConfig(),
+        modules: {
+          'liferay-export-import-export-import': {
+            path: 'main.js',
+            requires: [
+              'aui-datatype',
+              'aui-dialog-iframe-deprecated',
+              'aui-modal',
+              'aui-parse-content',
+              'aui-toggler',
+              'liferay-portlet-base',
+              'liferay-util-window',
+            ],
+          },
+        },
+        root: MODULE_PATH + '/js/legacy/',
+      },
+    },
+  });
 })();
 } catch(error) {console.error(error);}try {var MODULE_MAIN='frontend-editor-alloyeditor-web@5.0.62/index';var MODULE_PATH='/o/frontend-editor-alloyeditor-web';/**
  * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
@@ -4836,43 +4792,43 @@ currentURLEncoded: '\x252F',
  */
 
 (function () {
-	AUI().applyConfig({
-		groups: {
-			alloyeditor: {
-				base: MODULE_PATH + '/js/legacy/',
-				combine: Liferay.AUI.getCombine(),
-				filter: Liferay.AUI.getFilterConfig(),
-				modules: {
-					'liferay-alloy-editor': {
-						path: 'alloyeditor.js',
-						requires: [
-							'aui-component',
-							'liferay-portlet-base',
-							'timers',
-						],
-					},
-					'liferay-alloy-editor-source': {
-						path: 'alloyeditor_source.js',
-						requires: [
-							'aui-debounce',
-							'liferay-fullscreen-source-editor',
-							'liferay-source-editor',
-							'plugin',
-						],
-					},
-					'liferay-fullscreen-source-editor': {
-						path: 'fullscreen_source_editor.js',
-						requires: ['liferay-source-editor'],
-					},
-					'liferay-source-editor': {
-						path: 'source_editor.js',
-						requires: ['aui-ace-editor'],
-					},
-				},
-				root: MODULE_PATH + '/js/legacy/',
-			},
-		},
-	});
+  AUI().applyConfig({
+    groups: {
+      alloyeditor: {
+        base: MODULE_PATH + '/js/legacy/',
+        combine: Liferay.AUI.getCombine(),
+        filter: Liferay.AUI.getFilterConfig(),
+        modules: {
+          'liferay-alloy-editor': {
+            path: 'alloyeditor.js',
+            requires: [
+              'aui-component',
+              'liferay-portlet-base',
+              'timers',
+            ],
+          },
+          'liferay-alloy-editor-source': {
+            path: 'alloyeditor_source.js',
+            requires: [
+              'aui-debounce',
+              'liferay-fullscreen-source-editor',
+              'liferay-source-editor',
+              'plugin',
+            ],
+          },
+          'liferay-fullscreen-source-editor': {
+            path: 'fullscreen_source_editor.js',
+            requires: ['liferay-source-editor'],
+          },
+          'liferay-source-editor': {
+            path: 'source_editor.js',
+            requires: ['aui-ace-editor'],
+          },
+        },
+        root: MODULE_PATH + '/js/legacy/',
+      },
+    },
+  });
 })();
 } catch(error) {console.error(error);}try {var MODULE_MAIN='frontend-editor-ckeditor-web@5.0.117/index';var MODULE_PATH='/o/frontend-editor-ckeditor-web';/**
  * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
@@ -4880,32 +4836,32 @@ currentURLEncoded: '\x252F',
  */
 
 (function () {
-	AUI().applyConfig({
-		groups: {
-			editor: {
-				base: MODULE_PATH + '/js/legacy/',
-				combine: Liferay.AUI.getCombine(),
-				filter: Liferay.AUI.getFilterConfig(),
-				modules: {
-					'inline-editor-ckeditor': {
-						path: 'main.js',
-						requires: [
-							'array-invoke',
-							'liferay-inline-editor-base',
-							'node-event-simulate',
-							'overlay',
-							'yui-later',
-						],
-					},
-					'liferay-inline-editor-base': {
-						path: 'inline_editor_base.js',
-						requires: ['aui-base', 'aui-overlay-base-deprecated'],
-					},
-				},
-				root: MODULE_PATH + '/js/legacy/',
-			},
-		},
-	});
+  AUI().applyConfig({
+    groups: {
+      editor: {
+        base: MODULE_PATH + '/js/legacy/',
+        combine: Liferay.AUI.getCombine(),
+        filter: Liferay.AUI.getFilterConfig(),
+        modules: {
+          'inline-editor-ckeditor': {
+            path: 'main.js',
+            requires: [
+              'array-invoke',
+              'liferay-inline-editor-base',
+              'node-event-simulate',
+              'overlay',
+              'yui-later',
+            ],
+          },
+          'liferay-inline-editor-base': {
+            path: 'inline_editor_base.js',
+            requires: ['aui-base', 'aui-overlay-base-deprecated'],
+          },
+        },
+        root: MODULE_PATH + '/js/legacy/',
+      },
+    },
+  });
 })();
 } catch(error) {console.error(error);}try {var MODULE_MAIN='frontend-js-components-web@2.0.89/index';var MODULE_PATH='/o/frontend-js-components-web';/**
  * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
@@ -4913,15 +4869,15 @@ currentURLEncoded: '\x252F',
  */
 
 (function () {
-	AUI().applyConfig({
-		groups: {
-			components: {
+  AUI().applyConfig({
+    groups: {
+      components: {
 
-				// eslint-disable-next-line
-				mainModule: MODULE_MAIN,
-			},
-		},
-	});
+        // eslint-disable-next-line
+        mainModule: MODULE_MAIN,
+      },
+    },
+  });
 })();
 } catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/frontend-js-react-web@5.0.62/index';var MODULE_PATH='/o/frontend-js-react-web';/**
  * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
@@ -4929,15 +4885,15 @@ currentURLEncoded: '\x252F',
  */
 
 (function () {
-	AUI().applyConfig({
-		groups: {
-			react: {
+  AUI().applyConfig({
+    groups: {
+      react: {
 
-				// eslint-disable-next-line
-				mainModule: MODULE_MAIN,
-			},
-		},
-	});
+        // eslint-disable-next-line
+        mainModule: MODULE_MAIN,
+      },
+    },
+  });
 })();
 } catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/frontend-js-state-web@1.0.34/index';var MODULE_PATH='/o/frontend-js-state-web';/**
  * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
@@ -4945,15 +4901,15 @@ currentURLEncoded: '\x252F',
  */
 
 (function () {
-	AUI().applyConfig({
-		groups: {
-			state: {
+  AUI().applyConfig({
+    groups: {
+      state: {
 
-				// eslint-disable-next-line
-				mainModule: MODULE_MAIN,
-			},
-		},
-	});
+        // eslint-disable-next-line
+        mainModule: MODULE_MAIN,
+      },
+    },
+  });
 })();
 } catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/image-uploader-web@5.0.58/index';var MODULE_PATH='/o/image-uploader-web';/**
  * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
@@ -4961,22 +4917,22 @@ currentURLEncoded: '\x252F',
  */
 
 (function () {
-	AUI().applyConfig({
-		groups: {
-			imageuploaderweb: {
-				base: MODULE_PATH + '/js/legacy/',
-				combine: Liferay.AUI.getCombine(),
-				filter: Liferay.AUI.getFilterConfig(),
-				modules: {
-					'liferay-logo-editor': {
-						path: 'logo_editor.js',
-						requires: ['aui-image-cropper', 'liferay-portlet-base'],
-					},
-				},
-				root: MODULE_PATH + '/js/legacy/',
-			},
-		},
-	});
+  AUI().applyConfig({
+    groups: {
+      imageuploaderweb: {
+        base: MODULE_PATH + '/js/legacy/',
+        combine: Liferay.AUI.getCombine(),
+        filter: Liferay.AUI.getFilterConfig(),
+        modules: {
+          'liferay-logo-editor': {
+            path: 'logo_editor.js',
+            requires: ['aui-image-cropper', 'liferay-portlet-base'],
+          },
+        },
+        root: MODULE_PATH + '/js/legacy/',
+      },
+    },
+  });
 })();
 } catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/layout-js-components-web@1.0.42/index';var MODULE_PATH='/o/layout-js-components-web';/**
  * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
@@ -4984,25 +4940,25 @@ currentURLEncoded: '\x252F',
  */
 
 (function () {
-	AUI().applyConfig({
-		groups: {
-			layout: {
-				base: MODULE_PATH + '/js/legacy/',
-				combine: Liferay.AUI.getCombine(),
-				filter: Liferay.AUI.getFilterConfig(),
-				modules: {
-					'liferay-layout': {
-						path: 'layout.js',
-					},
-					'liferay-layout-column': {
-						path: 'layout_column.js',
-						requires: ['aui-sortable-layout', 'dd'],
-					},
-				},
-				root: MODULE_PATH + '/js/legacy/',
-			},
-		},
-	});
+  AUI().applyConfig({
+    groups: {
+      layout: {
+        base: MODULE_PATH + '/js/legacy/',
+        combine: Liferay.AUI.getCombine(),
+        filter: Liferay.AUI.getFilterConfig(),
+        modules: {
+          'liferay-layout': {
+            path: 'layout.js',
+          },
+          'liferay-layout-column': {
+            path: 'layout_column.js',
+            requires: ['aui-sortable-layout', 'dd'],
+          },
+        },
+        root: MODULE_PATH + '/js/legacy/',
+      },
+    },
+  });
 })();
 } catch(error) {console.error(error);}try {var MODULE_MAIN='portal-search-web@6.0.156/index';var MODULE_PATH='/o/portal-search-web';/**
  * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
@@ -5010,22 +4966,22 @@ currentURLEncoded: '\x252F',
  */
 
 (function () {
-	AUI().applyConfig({
-		groups: {
-			search: {
-				base: MODULE_PATH + '/js/',
-				combine: Liferay.AUI.getCombine(),
-				filter: Liferay.AUI.getFilterConfig(),
-				modules: {
-					'liferay-search-custom-range-facet': {
-						path: 'custom_range_facet.js',
-						requires: ['aui-form-validator'],
-					},
-				},
-				root: MODULE_PATH + '/js/',
-			},
-		},
-	});
+  AUI().applyConfig({
+    groups: {
+      search: {
+        base: MODULE_PATH + '/js/',
+        combine: Liferay.AUI.getCombine(),
+        filter: Liferay.AUI.getFilterConfig(),
+        modules: {
+          'liferay-search-custom-range-facet': {
+            path: 'custom_range_facet.js',
+            requires: ['aui-form-validator'],
+          },
+        },
+        root: MODULE_PATH + '/js/',
+      },
+    },
+  });
 })();
 } catch(error) {console.error(error);}try {var MODULE_MAIN='portal-workflow-kaleo-designer-web@5.0.154/index';var MODULE_PATH='/o/portal-workflow-kaleo-designer-web';/**
  * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
@@ -5033,108 +4989,108 @@ currentURLEncoded: '\x252F',
  */
 
 (function () {
-	AUI().applyConfig({
-		groups: {
-			'kaleo-designer': {
-				base: MODULE_PATH + '/designer/js/legacy/',
-				combine: Liferay.AUI.getCombine(),
-				filter: Liferay.AUI.getFilterConfig(),
-				modules: {
-					'liferay-kaleo-designer-autocomplete-util': {
-						path: 'autocomplete_util.js',
-						requires: ['autocomplete', 'autocomplete-highlighters'],
-					},
-					'liferay-kaleo-designer-definition-diagram-controller': {
-						path: 'definition_diagram_controller.js',
-						requires: [
-							'liferay-kaleo-designer-field-normalizer',
-							'liferay-kaleo-designer-utils',
-						],
-					},
-					'liferay-kaleo-designer-dialogs': {
-						path: 'dialogs.js',
-						requires: ['liferay-util-window'],
-					},
-					'liferay-kaleo-designer-editors': {
-						path: 'editors.js',
-						requires: [
-							'aui-ace-editor',
-							'aui-ace-editor-mode-xml',
-							'aui-base',
-							'aui-datatype',
-							'aui-node',
-							'liferay-kaleo-designer-autocomplete-util',
-							'liferay-kaleo-designer-utils',
-						],
-					},
-					'liferay-kaleo-designer-field-normalizer': {
-						path: 'field_normalizer.js',
-						requires: ['liferay-kaleo-designer-remote-services'],
-					},
-					'liferay-kaleo-designer-nodes': {
-						path: 'nodes.js',
-						requires: [
-							'aui-datatable',
-							'aui-datatype',
-							'aui-diagram-builder',
-							'liferay-kaleo-designer-editors',
-							'liferay-kaleo-designer-utils',
-						],
-					},
-					'liferay-kaleo-designer-remote-services': {
-						path: 'remote_services.js',
-						requires: ['aui-io'],
-					},
-					'liferay-kaleo-designer-templates': {
-						path: 'templates.js',
-						requires: ['aui-tpl-snippets-deprecated'],
-					},
-					'liferay-kaleo-designer-utils': {
-						path: 'utils.js',
-						requires: [],
-					},
-					'liferay-kaleo-designer-xml-definition': {
-						path: 'xml_definition.js',
-						requires: [
-							'aui-base',
-							'aui-component',
-							'dataschema-xml',
-							'datatype-xml',
-						],
-					},
-					'liferay-kaleo-designer-xml-definition-serializer': {
-						path: 'xml_definition_serializer.js',
-						requires: ['escape', 'liferay-kaleo-designer-xml-util'],
-					},
-					'liferay-kaleo-designer-xml-util': {
-						path: 'xml_util.js',
-						requires: ['aui-base'],
-					},
-					'liferay-portlet-kaleo-designer': {
-						path: 'main.js',
-						requires: [
-							'aui-ace-editor',
-							'aui-ace-editor-mode-xml',
-							'aui-tpl-snippets-deprecated',
-							'dataschema-xml',
-							'datasource',
-							'datatype-xml',
-							'event-valuechange',
-							'io-form',
-							'liferay-kaleo-designer-autocomplete-util',
-							'liferay-kaleo-designer-editors',
-							'liferay-kaleo-designer-nodes',
-							'liferay-kaleo-designer-remote-services',
-							'liferay-kaleo-designer-utils',
-							'liferay-kaleo-designer-xml-util',
-							'liferay-util-window',
-						],
-					},
-				},
-				root: MODULE_PATH + '/designer/js/legacy/',
-			},
-		},
-	});
+  AUI().applyConfig({
+    groups: {
+      'kaleo-designer': {
+        base: MODULE_PATH + '/designer/js/legacy/',
+        combine: Liferay.AUI.getCombine(),
+        filter: Liferay.AUI.getFilterConfig(),
+        modules: {
+          'liferay-kaleo-designer-autocomplete-util': {
+            path: 'autocomplete_util.js',
+            requires: ['autocomplete', 'autocomplete-highlighters'],
+          },
+          'liferay-kaleo-designer-definition-diagram-controller': {
+            path: 'definition_diagram_controller.js',
+            requires: [
+              'liferay-kaleo-designer-field-normalizer',
+              'liferay-kaleo-designer-utils',
+            ],
+          },
+          'liferay-kaleo-designer-dialogs': {
+            path: 'dialogs.js',
+            requires: ['liferay-util-window'],
+          },
+          'liferay-kaleo-designer-editors': {
+            path: 'editors.js',
+            requires: [
+              'aui-ace-editor',
+              'aui-ace-editor-mode-xml',
+              'aui-base',
+              'aui-datatype',
+              'aui-node',
+              'liferay-kaleo-designer-autocomplete-util',
+              'liferay-kaleo-designer-utils',
+            ],
+          },
+          'liferay-kaleo-designer-field-normalizer': {
+            path: 'field_normalizer.js',
+            requires: ['liferay-kaleo-designer-remote-services'],
+          },
+          'liferay-kaleo-designer-nodes': {
+            path: 'nodes.js',
+            requires: [
+              'aui-datatable',
+              'aui-datatype',
+              'aui-diagram-builder',
+              'liferay-kaleo-designer-editors',
+              'liferay-kaleo-designer-utils',
+            ],
+          },
+          'liferay-kaleo-designer-remote-services': {
+            path: 'remote_services.js',
+            requires: ['aui-io'],
+          },
+          'liferay-kaleo-designer-templates': {
+            path: 'templates.js',
+            requires: ['aui-tpl-snippets-deprecated'],
+          },
+          'liferay-kaleo-designer-utils': {
+            path: 'utils.js',
+            requires: [],
+          },
+          'liferay-kaleo-designer-xml-definition': {
+            path: 'xml_definition.js',
+            requires: [
+              'aui-base',
+              'aui-component',
+              'dataschema-xml',
+              'datatype-xml',
+            ],
+          },
+          'liferay-kaleo-designer-xml-definition-serializer': {
+            path: 'xml_definition_serializer.js',
+            requires: ['escape', 'liferay-kaleo-designer-xml-util'],
+          },
+          'liferay-kaleo-designer-xml-util': {
+            path: 'xml_util.js',
+            requires: ['aui-base'],
+          },
+          'liferay-portlet-kaleo-designer': {
+            path: 'main.js',
+            requires: [
+              'aui-ace-editor',
+              'aui-ace-editor-mode-xml',
+              'aui-tpl-snippets-deprecated',
+              'dataschema-xml',
+              'datasource',
+              'datatype-xml',
+              'event-valuechange',
+              'io-form',
+              'liferay-kaleo-designer-autocomplete-util',
+              'liferay-kaleo-designer-editors',
+              'liferay-kaleo-designer-nodes',
+              'liferay-kaleo-designer-remote-services',
+              'liferay-kaleo-designer-utils',
+              'liferay-kaleo-designer-xml-util',
+              'liferay-util-window',
+            ],
+          },
+        },
+        root: MODULE_PATH + '/designer/js/legacy/',
+      },
+    },
+  });
 })();
 } catch(error) {console.error(error);}try {var MODULE_MAIN='site-navigation-menu-web@6.0.79/index';var MODULE_PATH='/o/site-navigation-menu-web';/**
  * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
@@ -5142,47 +5098,47 @@ currentURLEncoded: '\x252F',
  */
 
 (function () {
-	AUI().applyConfig({
-		groups: {
-			navigationmenuweb: {
-				base: MODULE_PATH + '/js/legacy/',
-				combine: Liferay.AUI.getCombine(),
-				filter: Liferay.AUI.getFilterConfig(),
-				modules: {
-					'liferay-navigation-interaction': {
-						path: 'navigation_interaction.js',
-						plugins: {
-							'liferay-navigation-interaction-touch': {
-								condition: {
-									name: 'liferay-navigation-interaction-touch',
-									test(A) {
-										return A.UA.touchEnabled;
-									},
-									trigger: 'liferay-navigation-interaction',
-								},
-							},
-						},
-						requires: [
-							'aui-base',
-							'aui-component',
-							'event-mouseenter',
-							'node-focusmanager',
-							'plugin',
-						],
-					},
-					'liferay-navigation-interaction-touch': {
-						path: 'navigation_interaction_touch.js',
-						requires: [
-							'event-tap',
-							'event-touch',
-							'liferay-navigation-interaction',
-						],
-					},
-				},
-				root: MODULE_PATH + '/js/legacy/',
-			},
-		},
-	});
+  AUI().applyConfig({
+    groups: {
+      navigationmenuweb: {
+        base: MODULE_PATH + '/js/legacy/',
+        combine: Liferay.AUI.getCombine(),
+        filter: Liferay.AUI.getFilterConfig(),
+        modules: {
+          'liferay-navigation-interaction': {
+            path: 'navigation_interaction.js',
+            plugins: {
+              'liferay-navigation-interaction-touch': {
+                condition: {
+                  name: 'liferay-navigation-interaction-touch',
+                  test(A) {
+                    return A.UA.touchEnabled;
+                  },
+                  trigger: 'liferay-navigation-interaction',
+                },
+              },
+            },
+            requires: [
+              'aui-base',
+              'aui-component',
+              'event-mouseenter',
+              'node-focusmanager',
+              'plugin',
+            ],
+          },
+          'liferay-navigation-interaction-touch': {
+            path: 'navigation_interaction_touch.js',
+            requires: [
+              'event-tap',
+              'event-touch',
+              'liferay-navigation-interaction',
+            ],
+          },
+        },
+        root: MODULE_PATH + '/js/legacy/',
+      },
+    },
+  });
 })();
 } catch(error) {console.error(error);}try {var MODULE_MAIN='staging-processes-web@5.0.71/index';var MODULE_PATH='/o/staging-processes-web';/**
  * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
@@ -5190,30 +5146,30 @@ currentURLEncoded: '\x252F',
  */
 
 (function () {
-	AUI().applyConfig({
-		groups: {
-			stagingprocessesweb: {
-				base: MODULE_PATH + '/js/legacy/',
-				combine: Liferay.AUI.getCombine(),
-				filter: Liferay.AUI.getFilterConfig(),
-				modules: {
-					'liferay-staging-processes-export-import': {
-						path: 'main.js',
-						requires: [
-							'aui-datatype',
-							'aui-dialog-iframe-deprecated',
-							'aui-modal',
-							'aui-parse-content',
-							'aui-toggler',
-							'liferay-portlet-base',
-							'liferay-util-window',
-						],
-					},
-				},
-				root: MODULE_PATH + '/js/legacy/',
-			},
-		},
-	});
+  AUI().applyConfig({
+    groups: {
+      stagingprocessesweb: {
+        base: MODULE_PATH + '/js/legacy/',
+        combine: Liferay.AUI.getCombine(),
+        filter: Liferay.AUI.getFilterConfig(),
+        modules: {
+          'liferay-staging-processes-export-import': {
+            path: 'main.js',
+            requires: [
+              'aui-datatype',
+              'aui-dialog-iframe-deprecated',
+              'aui-modal',
+              'aui-parse-content',
+              'aui-toggler',
+              'liferay-portlet-base',
+              'liferay-util-window',
+            ],
+          },
+        },
+        root: MODULE_PATH + '/js/legacy/',
+      },
+    },
+  });
 })();
 } catch(error) {console.error(error);}</script>
 
@@ -5221,388 +5177,135 @@ currentURLEncoded: '\x252F',
 
 
 <script type="text/javascript" data-senna-track="temporary">
-	// <![CDATA[
-		
-			
-				
-				
-			
-		
+  // <![CDATA[
+    
+      
+        
+        
+      
+    
 
-		
-	// ]]>
+    
+  // ]]>
 </script>
-
-
-
-
-
-	
-		
-		
-
-			
-
-			
-		
-		
-	
-
-
-
-	
-		
-
-			
-
-			
-		
-		
-		
-	
-
-
-
-	
-		
-		
-		
-
-			
-
-			
-		
-	
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <link class="lfr-css-file" data-senna-track="temporary" href="https://www.equifax.ec/o/evolution-generic-theme/css/main.css?browserId=chrome&amp;themeId=evolutiongenerictheme_WAR_evolutiongenerictheme&amp;minifierType=css&amp;languageId=es_ES&amp;t=1769130842000" id="liferayThemeCSS" rel="stylesheet" type="text/css">
 
-
-
-
-
-
-
-
-	<style data-senna-track="temporary" type="text/css">
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-	</style>
+  <style data-senna-track="temporary" type="text/css">
+    </style>
 
 
 <style data-senna-track="temporary" type="text/css">
-	:root {
-		--container-max-sm: 576px;
-		--h4-font-size: 1.5rem;
-		--font-weight-bold: 700;
-		--rounded-pill: 50rem;
-		--display4-weight: 300;
-		--danger: #e8002a;
-		--display2-size: 5.5rem;
-		--body-bg: #fff;
-		--display2-weight: 300;
-		--display1-weight: 300;
-		--display3-weight: 300;
-		--box-shadow-sm: 0 .125rem .25rem rgba(0, 0, 0, .075);
-		--font-weight-lighter: lighter;
-		--h3-font-size: 2.25rem;
-		--btn-outline-primary-hover-border-color: #007298;
-		--transition-collapse: height .35s ease;
-		--blockquote-small-color: #6b6c7e;
-		--gray-200: #eeeeee;
-		--btn-secondary-hover-background-color: #333e48;
-		--gray-600: #5b6771;
-		--secondary: #f86800;
-		--btn-outline-primary-color: #007298;
-		--btn-link-hover-color: #007298;
-		--hr-border-color: rgba(0, 0, 0, .1);
-		--hr-border-margin-y: 1rem;
-		--light: #eeeeee;
-		--btn-outline-primary-hover-color: #fff;
-		--btn-secondary-background-color: #eeeeee;
-		--btn-outline-secondary-hover-border-color: #eeeeee;
-		--display3-size: 4.5rem;
-		--primary: #007298;
-		--container-max-md: 768px;
-		--border-radius-sm: 0.1875rem;
-		--display-line-height: 1.2;
-		--h6-font-size: 1rem;
-		--h2-font-size: 2.625rem;
-		--aspect-ratio-4-to-3: 75%;
-		--spacer-10: 10rem;
-		--font-weight-normal: 400;
-		--dark: #333e48;
-		--blockquote-small-font-size: 80%;
-		--h5-font-size: 1.25rem;
-		--blockquote-font-size: 1.5rem;
-		--transition-fade: opacity .15s linear;
-		--display4-size: 3.5rem;
-		--border-radius-lg: 0.375rem;
-		--btn-primary-hover-color: #007298;
-		--display1-size: 6rem;
-		--black: #000;
-		--gray-300: #e7e7e7;
-		--gray-700: #495057;
-		--btn-secondary-border-color: #eeeeee;
-		--btn-outline-secondary-hover-color: #333e48;
-		--body-color: #272833;
-		--btn-outline-secondary-hover-background-color: #eeeeee;
-		--btn-primary-color: #fff;
-		--btn-secondary-color: #333e48;
-		--btn-secondary-hover-border-color: #333e48;
-		--box-shadow-lg: 0 1rem 3rem rgba(0, 0, 0, .175);
-		--container-max-lg: 992px;
-		--btn-outline-primary-border-color: #007298;
-		--aspect-ratio: 100%;
-		--aspect-ratio-16-to-9: 56.25%;
-		--box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
-		--white: #fff;
-		--warning: #f3c300;
-		--info: #00ace6;
-		--hr-border-width: 1px;
-		--btn-link-color: #007298;
-		--gray-400: #b2b2b2;
-		--gray-800: #333e48;
-		--btn-outline-primary-hover-background-color: #007298;
-		--btn-primary-hover-background-color: #fff;
-		--btn-primary-background-color: #007298;
-		--success: #278c10;
-		--font-size-sm: 1rem;
-		--btn-primary-border-color: #007298;
-		--font-family-base: 'Open Sans', Arial, sans-serif;
-		--spacer-0: 0;
-		--font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
-		--lead-font-size: 1.25rem;
-		--border-radius: 0.25rem;
-		--spacer-9: 9rem;
-		--font-weight-light: 300;
-		--btn-secondary-hover-color: #fff;
-		--spacer-2: 0.5rem;
-		--spacer-1: 0.25rem;
-		--spacer-4: 1.5rem;
-		--spacer-3: 1rem;
-		--spacer-6: 4.5rem;
-		--spacer-5: 3rem;
-		--spacer-8: 7.5rem;
-		--border-radius-circle: 50%;
-		--spacer-7: 6rem;
-		--font-size-lg: 1.5rem;
-		--aspect-ratio-8-to-3: 37.5%;
-		--font-family-sans-serif: 'Open Sans', Arial, sans-serif;
-		--gray-100: #f7f8f9;
-		--font-weight-bolder: 900;
-		--container-max-xl: 1280px;
-		--btn-outline-secondary-color: #333e48;
-		--gray-500: #a3aaad;
-		--h1-font-size: 4rem;
-		--gray-900: #212529;
-		--text-muted: #a7a9bc;
-		--btn-primary-hover-border-color: #007298;
-		--btn-outline-secondary-border-color: #333e48;
-		--lead-font-weight: 300;
-		--font-size-base: 1.25rem;
-	}
+  :root {
+    --container-max-sm: 576px;
+    --h4-font-size: 1.5rem;
+    --font-weight-bold: 700;
+    --rounded-pill: 50rem;
+    --display4-weight: 300;
+    --danger: #e8002a;
+    --display2-size: 5.5rem;
+    --body-bg: #fff;
+    --display2-weight: 300;
+    --display1-weight: 300;
+    --display3-weight: 300;
+    --box-shadow-sm: 0 .125rem .25rem rgba(0, 0, 0, .075);
+    --font-weight-lighter: lighter;
+    --h3-font-size: 2.25rem;
+    --btn-outline-primary-hover-border-color: #007298;
+    --transition-collapse: height .35s ease;
+    --blockquote-small-color: #6b6c7e;
+    --gray-200: #eeeeee;
+    --btn-secondary-hover-background-color: #333e48;
+    --gray-600: #5b6771;
+    --secondary: #f86800;
+    --btn-outline-primary-color: #007298;
+    --btn-link-hover-color: #007298;
+    --hr-border-color: rgba(0, 0, 0, .1);
+    --hr-border-margin-y: 1rem;
+    --light: #eeeeee;
+    --btn-outline-primary-hover-color: #fff;
+    --btn-secondary-background-color: #eeeeee;
+    --btn-outline-secondary-hover-border-color: #eeeeee;
+    --display3-size: 4.5rem;
+    --primary: #007298;
+    --container-max-md: 768px;
+    --border-radius-sm: 0.1875rem;
+    --display-line-height: 1.2;
+    --h6-font-size: 1rem;
+    --h2-font-size: 2.625rem;
+    --aspect-ratio-4-to-3: 75%;
+    --spacer-10: 10rem;
+    --font-weight-normal: 400;
+    --dark: #333e48;
+    --blockquote-small-font-size: 80%;
+    --h5-font-size: 1.25rem;
+    --blockquote-font-size: 1.5rem;
+    --transition-fade: opacity .15s linear;
+    --display4-size: 3.5rem;
+    --border-radius-lg: 0.375rem;
+    --btn-primary-hover-color: #007298;
+    --display1-size: 6rem;
+    --black: #000;
+    --gray-300: #e7e7e7;
+    --gray-700: #495057;
+    --btn-secondary-border-color: #eeeeee;
+    --btn-outline-secondary-hover-color: #333e48;
+    --body-color: #272833;
+    --btn-outline-secondary-hover-background-color: #eeeeee;
+    --btn-primary-color: #fff;
+    --btn-secondary-color: #333e48;
+    --btn-secondary-hover-border-color: #333e48;
+    --box-shadow-lg: 0 1rem 3rem rgba(0, 0, 0, .175);
+    --container-max-lg: 992px;
+    --btn-outline-primary-border-color: #007298;
+    --aspect-ratio: 100%;
+    --aspect-ratio-16-to-9: 56.25%;
+    --box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
+    --white: #fff;
+    --warning: #f3c300;
+    --info: #00ace6;
+    --hr-border-width: 1px;
+    --btn-link-color: #007298;
+    --gray-400: #b2b2b2;
+    --gray-800: #333e48;
+    --btn-outline-primary-hover-background-color: #007298;
+    --btn-primary-hover-background-color: #fff;
+    --btn-primary-background-color: #007298;
+    --success: #278c10;
+    --font-size-sm: 1rem;
+    --btn-primary-border-color: #007298;
+    --font-family-base: 'Open Sans', Arial, sans-serif;
+    --spacer-0: 0;
+    --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+    --lead-font-size: 1.25rem;
+    --border-radius: 0.25rem;
+    --spacer-9: 9rem;
+    --font-weight-light: 300;
+    --btn-secondary-hover-color: #fff;
+    --spacer-2: 0.5rem;
+    --spacer-1: 0.25rem;
+    --spacer-4: 1.5rem;
+    --spacer-3: 1rem;
+    --spacer-6: 4.5rem;
+    --spacer-5: 3rem;
+    --spacer-8: 7.5rem;
+    --border-radius-circle: 50%;
+    --spacer-7: 6rem;
+    --font-size-lg: 1.5rem;
+    --aspect-ratio-8-to-3: 37.5%;
+    --font-family-sans-serif: 'Open Sans', Arial, sans-serif;
+    --gray-100: #f7f8f9;
+    --font-weight-bolder: 900;
+    --container-max-xl: 1280px;
+    --btn-outline-secondary-color: #333e48;
+    --gray-500: #a3aaad;
+    --h1-font-size: 4rem;
+    --gray-900: #212529;
+    --text-muted: #a7a9bc;
+    --btn-primary-hover-border-color: #007298;
+    --btn-outline-secondary-border-color: #333e48;
+    --lead-font-weight: 300;
+    --font-size-base: 1.25rem;
+  }
 </style>
 <link data-senna-track="permanent" href="/o/frontend-js-aui-web/alloy_ui.css?&amp;mac=favIEq7hPo8AEd6k+N5OVADEEls=&amp;browserId=chrome&amp;languageId=es_ES&amp;minifierType=css&amp;themeId=evolutiongenerictheme_WAR_evolutiongenerictheme" rel="stylesheet">
 <link data-senna-track="temporary" href="/o/layout-common-styles/main.css?plid=4194&amp;segmentsExperienceId=48674600&amp;t=1754664735477" rel="stylesheet" type="text/css">
@@ -5628,94 +5331,94 @@ currentURLEncoded: '\x252F',
 
 
 <script type="text/javascript" data-senna-track="temporary">
-	if (window.Analytics) {
-		window._com_liferay_document_library_analytics_isViewFileEntry = false;
-	}
+  if (window.Analytics) {
+    window._com_liferay_document_library_analytics_isViewFileEntry = false;
+  }
 </script>
 
 <script type="text/javascript">
 Liferay.on(
-	'ddmFieldBlur', function(event) {
-		if (window.Analytics) {
-			Analytics.send(
-				'fieldBlurred',
-				'Form',
-				{
-					fieldName: event.fieldName,
-					focusDuration: event.focusDuration,
-					formId: event.formId,
-					formPageTitle: event.formPageTitle,
-					page: event.page,
-					title: event.title
-				}
-			);
-		}
-	}
+  'ddmFieldBlur', function(event) {
+    if (window.Analytics) {
+      Analytics.send(
+        'fieldBlurred',
+        'Form',
+        {
+          fieldName: event.fieldName,
+          focusDuration: event.focusDuration,
+          formId: event.formId,
+          formPageTitle: event.formPageTitle,
+          page: event.page,
+          title: event.title
+        }
+      );
+    }
+  }
 );
 
 Liferay.on(
-	'ddmFieldFocus', function(event) {
-		if (window.Analytics) {
-			Analytics.send(
-				'fieldFocused',
-				'Form',
-				{
-					fieldName: event.fieldName,
-					formId: event.formId,
-					formPageTitle: event.formPageTitle,
-					page: event.page,
-					title:event.title
-				}
-			);
-		}
-	}
+  'ddmFieldFocus', function(event) {
+    if (window.Analytics) {
+      Analytics.send(
+        'fieldFocused',
+        'Form',
+        {
+          fieldName: event.fieldName,
+          formId: event.formId,
+          formPageTitle: event.formPageTitle,
+          page: event.page,
+          title:event.title
+        }
+      );
+    }
+  }
 );
 
 Liferay.on(
-	'ddmFormPageShow', function(event) {
-		if (window.Analytics) {
-			Analytics.send(
-				'pageViewed',
-				'Form',
-				{
-					formId: event.formId,
-					formPageTitle: event.formPageTitle,
-					page: event.page,
-					title: event.title
-				}
-			);
-		}
-	}
+  'ddmFormPageShow', function(event) {
+    if (window.Analytics) {
+      Analytics.send(
+        'pageViewed',
+        'Form',
+        {
+          formId: event.formId,
+          formPageTitle: event.formPageTitle,
+          page: event.page,
+          title: event.title
+        }
+      );
+    }
+  }
 );
 
 Liferay.on(
-	'ddmFormSubmit', function(event) {
-		if (window.Analytics) {
-			Analytics.send(
-				'formSubmitted',
-				'Form',
-				{
-					formId: event.formId,
-					title: event.title
-				}
-			);
-		}
-	}
+  'ddmFormSubmit', function(event) {
+    if (window.Analytics) {
+      Analytics.send(
+        'formSubmitted',
+        'Form',
+        {
+          formId: event.formId,
+          title: event.title
+        }
+      );
+    }
+  }
 );
 
 Liferay.on(
-	'ddmFormView', function(event) {
-		if (window.Analytics) {
-			Analytics.send(
-				'formViewed',
-				'Form',
-				{
-					formId: event.formId,
-					title: event.title
-				}
-			);
-		}
-	}
+  'ddmFormView', function(event) {
+    if (window.Analytics) {
+      Analytics.send(
+        'formViewed',
+        'Form',
+        {
+          formId: event.formId,
+          title: event.title
+        }
+      );
+    }
+  }
 );
 
 </script><script>
@@ -5735,88 +5438,88 @@ Liferay.on(
 
 
 
-	<script>
-		if(location.search != ''){
-		    var params = (location.search).split('?')[1];
-		    var par = params.split('&');		   
-		    for(var i=0; i< par.length; i++){
-		        var part = par[i].split('=');
-		        checkStore(part[0], "cmpid", part[1], "cmpid");
-		        checkStore(part[0], "cn", part[1], "cn");
-		        checkStore(part[0], "sid", part[1], "sid");
-		        checkStore(part[0], "pub", part[1], "pub");
-		    }
-		}
-			
-		function checkStore(entry, check, value, cookie){
-			if(entry==check){
-		    	document.cookie = cookie+"="+value+";path=/";
-		    }
-		}
-		
-		
-		(function(win, doc, style, timeout) {
-		  var STYLE_ID = 'at-body-style';
-		
-		  function getParent() {
-		    return doc.getElementsByTagName('head')[0];
-		  }
-		
-		  function addStyle(parent, id, def) {
-		    if (!parent) {
-		      return;
-		    }
-		
-		    var style = doc.createElement('style');
-		    style.id = id;
-		    style.innerHTML = def;
-		    parent.appendChild(style);
-		  }
-		
-		  function removeStyle(parent, id) {
-		    if (!parent) {
-		      return;
-		    }
-		    var style = doc.getElementById(id);
-		
-		    if (!style) {
-		      return;
-		    }
-		    parent.removeChild(style);
-		  }
-		
-		  addStyle(getParent(), STYLE_ID, style);
-		  setTimeout(function() {
-		    removeStyle(getParent(), STYLE_ID);
-		  }, timeout);
-		}(window, document, "body {opacity: 0 !important}", 250));
-		window.digitalData=window.digitalData||{};
-		window.digitalData.events=window.digitalData.events||[];
-	</script> 
+  <script>
+    if(location.search != ''){
+        var params = (location.search).split('?')[1];
+        var par = params.split('&');		   
+        for(var i=0; i< par.length; i++){
+            var part = par[i].split('=');
+            checkStore(part[0], "cmpid", part[1], "cmpid");
+            checkStore(part[0], "cn", part[1], "cn");
+            checkStore(part[0], "sid", part[1], "sid");
+            checkStore(part[0], "pub", part[1], "pub");
+        }
+    }
+      
+    function checkStore(entry, check, value, cookie){
+      if(entry==check){
+          document.cookie = cookie+"="+value+";path=/";
+        }
+    }
+    
+    
+    (function(win, doc, style, timeout) {
+      var STYLE_ID = 'at-body-style';
+    
+      function getParent() {
+        return doc.getElementsByTagName('head')[0];
+      }
+    
+      function addStyle(parent, id, def) {
+        if (!parent) {
+          return;
+        }
+    
+        var style = doc.createElement('style');
+        style.id = id;
+        style.innerHTML = def;
+        parent.appendChild(style);
+      }
+    
+      function removeStyle(parent, id) {
+        if (!parent) {
+          return;
+        }
+        var style = doc.getElementById(id);
+    
+        if (!style) {
+          return;
+        }
+        parent.removeChild(style);
+      }
+    
+      addStyle(getParent(), STYLE_ID, style);
+      setTimeout(function() {
+        removeStyle(getParent(), STYLE_ID);
+      }, timeout);
+    }(window, document, "body {opacity: 0 !important}", 250));
+    window.digitalData=window.digitalData||{};
+    window.digitalData.events=window.digitalData.events||[];
+  </script> 
 
-						 <link href="//assets.equifax.com/global/css/efx-mkt.css" rel="preload stylesheet">
-					 <script src="//assets.equifax.com/global/js/efx-navigation.js" rel="preload" as="script"></script>
-					 <script src="//assets.equifax.com/global/js/efx-mkt.js" rel="preload" as="script"></script>
-					 <script src="//assets.equifax.com/global/js/parsley.min.js" rel="preload" as="script"></script>
-				  <script defer="" src="//assets.equifax.com/global/js/efx-mkt-font-awesome.js"></script>
-				  <meta name="google-site-verification" content="umVT4-qMgwEJUKtYSlJNOBHUOQLa2VaLvkhovQSP1jI">
-				  <meta name="facebook-domain-verification" content="roe9arnwk8953bdpslqlbu5w40q5va">
+             <link href="//assets.equifax.com/global/css/efx-mkt.css" rel="preload stylesheet">
+           <script src="//assets.equifax.com/global/js/efx-navigation.js" rel="preload" as="script"></script>
+           <script src="//assets.equifax.com/global/js/efx-mkt.js" rel="preload" as="script"></script>
+           <script src="//assets.equifax.com/global/js/parsley.min.js" rel="preload" as="script"></script>
+          <script defer="" src="//assets.equifax.com/global/js/efx-mkt-font-awesome.js"></script>
+          <meta name="google-site-verification" content="umVT4-qMgwEJUKtYSlJNOBHUOQLa2VaLvkhovQSP1jI">
+          <meta name="facebook-domain-verification" content="roe9arnwk8953bdpslqlbu5w40q5va">
 
 
 
 <script>
-	var globalCaptchaKey = '6LchTQMsAAAAAEh5K3sxJ6AddoIdQtdihTBf5p9i';
+  var globalCaptchaKey = '6LchTQMsAAAAAEh5K3sxJ6AddoIdQtdihTBf5p9i';
 
-	function clearRest(){
-		var p;
-		for(p=currentPageLevel+1; p<20; p++){
-			sessionStorage.removeItem(p+"");
-		}
-	}
+  function clearRest(){
+    var p;
+    for(p=currentPageLevel+1; p<20; p++){
+      sessionStorage.removeItem(p+"");
+    }
+  }
 
-	var currentPageLevel = 1;
-	sessionStorage.setItem("1", "Empresas:::https://www.equifax.ec/empresas");
-	clearRest();
+  var currentPageLevel = 1;
+  sessionStorage.setItem("1", "Empresas:::https://www.equifax.ec/empresas");
+  clearRest();
 </script>
 
 <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/696749402/?random=1769287285779&amp;cv=11&amp;fst=1769287285779&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be61m0h1v9176722595z8866436022za20gzb866436022zd866436022xea&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528500~104684208~104684211~105391252~115616985~115938465~115938468~116682875~117041588&amp;u_w=1536&amp;u_h=864&amp;url=https%3A%2F%2Fwww.equifax.ec%2F&amp;ref=https%3A%2F%2Fwww.equifax.com%2F&amp;frm=0&amp;tiba=Empresas%20%7C%20Equifax%20Ecuador&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=437430486.1767574348&amp;uaa=x86&amp;uab=64&amp;uafvl=Not(A%253ABrand%3B8.0.0.0%7CChromium%3B144.0.7559.59%7CGoogle%2520Chrome%3B144.0.7559.59&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;_tu=CA&amp;rfmt=3&amp;fmt=4"></script><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/696749402/?random=1769396257809&amp;cv=11&amp;fst=1769396257809&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be61m0h1v9176722595z8866436022za200zd9176722595xea&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=102015666~103116026~103200004~104527907~104528501~104684208~104684211~105391252~115495938~115938465~115938469~116185179~116185180~116682875~117025848~117041588~117223558&amp;u_w=1536&amp;u_h=864&amp;url=http%3A%2F%2Flocalhost%2Fequi_aval%2Fequi%2Fpaginas%2Factualizacion_usuario.php&amp;ref=http%3A%2F%2Flocalhost%2Fequi_aval%2Fequi%2Fpaginas%2F&amp;frm=0&amp;tiba=Empresas%20%7C%20Equifax%20Ecuador&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1502805271.1767574426&amp;uaa=x86&amp;uab=64&amp;uafvl=Not(A%253ABrand%3B8.0.0.0%7CChromium%3B144.0.7559.97%7CGoogle%2520Chrome%3B144.0.7559.97&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;_tu=CA&amp;rfmt=3&amp;fmt=4"></script>
@@ -5899,9 +5602,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-
-<div id="wrapper" class="efx-wrapper">
-		
+    
 <script>
 var countryName = "EC";
 </script>
@@ -6005,7 +5706,7 @@ countryObj.country.forEach(function (e) {
         if(countryIconEl != null) {
             countryIconEl.setAttribute('src', e.flag);
             countryIconEl.setAttribute('alt', e.name+" Icono");
-				}
+        }
         document.querySelector(".nav-item-locale .nav-item-locale__text").innerText = e.name;
         return false;
     }
@@ -6015,13 +5716,13 @@ countryObj.country.forEach(function (e) {
                     </ul>
 
                         <div class="navbar-quicklinks d-lg-none">
-                    	    <div class="dropdown-item">
+                          <div class="dropdown-item">
                                 <a href="/personas" class="btn mkt-btn mkt-btn--link d-block w-auto"><svg class="svg-inline--fa fa-home fa-w-18 mr-2" aria-hidden="true" focusable="false" data-prefix="far" data-icon="home" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M570.24 247.41L512 199.52V104a8 8 0 0 0-8-8h-32a8 8 0 0 0-7.95 7.88v56.22L323.87 45a56.06 56.06 0 0 0-71.74 0L5.76 247.41a16 16 0 0 0-2 22.54L14 282.25a16 16 0 0 0 22.53 2L64 261.69V448a32.09 32.09 0 0 0 32 32h128a32.09 32.09 0 0 0 32-32V344h64v104a32.09 32.09 0 0 0 32 32h128a32.07 32.07 0 0 0 32-31.76V261.67l27.53 22.62a16 16 0 0 0 22.53-2L572.29 270a16 16 0 0 0-2.05-22.59zM463.85 432H368V328a32.09 32.09 0 0 0-32-32h-96a32.09 32.09 0 0 0-32 32v104h-96V222.27L288 77.65l176 144.56z"></path></svg><!-- <span class="far fa-home mr-2" aria-hidden="true"></span> Font Awesome fontawesome.com -->Personas</a>
                             </div>
-                    	    <div class="dropdown-item">
+                          <div class="dropdown-item">
                                 <a href="/empresas" class="btn mkt-btn mkt-btn--link d-block w-auto"><svg class="svg-inline--fa fa-home fa-w-18 mr-2" aria-hidden="true" focusable="false" data-prefix="far" data-icon="home" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M570.24 247.41L512 199.52V104a8 8 0 0 0-8-8h-32a8 8 0 0 0-7.95 7.88v56.22L323.87 45a56.06 56.06 0 0 0-71.74 0L5.76 247.41a16 16 0 0 0-2 22.54L14 282.25a16 16 0 0 0 22.53 2L64 261.69V448a32.09 32.09 0 0 0 32 32h128a32.09 32.09 0 0 0 32-32V344h64v104a32.09 32.09 0 0 0 32 32h128a32.07 32.07 0 0 0 32-31.76V261.67l27.53 22.62a16 16 0 0 0 22.53-2L572.29 270a16 16 0 0 0-2.05-22.59zM463.85 432H368V328a32.09 32.09 0 0 0-32-32h-96a32.09 32.09 0 0 0-32 32v104h-96V222.27L288 77.65l176 144.56z"></path></svg><!-- <span class="far fa-home mr-2" aria-hidden="true"></span> Font Awesome fontawesome.com -->Empresas</a>
                             </div>
-                    	</div>
+                      </div>
                 </div><div class="navbar-primary d-lg-flex align-items-lg-center justify-content-lg-between">
                         
 
@@ -6031,95 +5732,24 @@ countryObj.country.forEach(function (e) {
 
 
                                             
-                    <li class="nav-item dropdown dropdown-mega nav-item-login mobile-icon mobile-icon--supplement" role="menuitem" aria-expanded="false">
-       <a class="nav-link d-lg-none dropdown-toggle" href="#" id="loginDropdownMobile" role="button" aria-haspopup="true" aria-expanded="false">
-       <svg class="svg-inline--fa fa-user fa-w-14" aria-hidden="true" focusable="false" data-prefix="far" data-icon="user" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M313.6 304c-28.7 0-42.5 16-89.6 16-47.1 0-60.8-16-89.6-16C60.2 304 0 364.2 0 438.4V464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48v-25.6c0-74.2-60.2-134.4-134.4-134.4zM400 464H48v-25.6c0-47.6 38.8-86.4 86.4-86.4 14.6 0 38.3 16 89.6 16 51.7 0 74.9-16 89.6-16 47.6 0 86.4 38.8 86.4 86.4V464zM224 288c79.5 0 144-64.5 144-144S303.5 0 224 0 80 64.5 80 144s64.5 144 144 144zm0-240c52.9 0 96 43.1 96 96s-43.1 96-96 96-96-43.1-96-96 43.1-96 96-96z"></path></svg><!-- <span class="far fa-user"></span> Font Awesome fontawesome.com -->
-       <span class="sr-only">Ingresar</span></a> 
-       <a class="dropdown-toggle btn mkt-btn mkt-btn--dark mkt-btn--sm d-none d-lg-inline-block" href="#" id="loginDropdownDesktop" role="button" aria-haspopup="true" aria-expanded="false">Ingresar<svg class="svg-inline--fa fa-chevron-down fa-w-14 ml-2 rotate" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="chevron-down" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg><!-- <span class="ml-2 fas fa-chevron-down rotate"></span> Font Awesome fontawesome.com --></a>
-<div class="dropdown-menu dropdown-mega-menu dropdown-login">
-          <button class="btn dropdown-mega-menu__close" aria-label="close" tabindex="-1">
-          <svg aria-hidden="true" class="svg-inline--fa fa-times fa-w-10" focusable="false" data-prefix="fal" data-icon="times" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" data-fa-i2svg=""><path fill="currentColor" d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z"></path></svg><!-- <span aria-hidden="true" class="fal fa-times"></span> Font Awesome fontawesome.com --> 
-          <span class="sr-only">close</span>
-          </button>
-          <div class="dropdown-login-body px-3 px-lg-5 pt-4 pb-5">
-             <div class="row no-gutters">
-                <div class="col-12">
-                   <div class="d-flex scroll-snap__wrapper modal-login">
-                   <div class="tabs-control text-center">
-                           <button class="text-dark tabs-control-prev" onclick="efxScrollSnapGoPrev(this)" title="Previous Tab" aria-label="Previous Tab" aria-labelledby="prev-tab-label">
-                            <svg class="svg-inline--fa fa-angle-left fa-w-6" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="angle-left" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512" data-fa-i2svg=""><path fill="currentColor" d="M25.1 247.5l117.8-116c4.7-4.7 12.3-4.7 17 0l7.1 7.1c4.7 4.7 4.7 12.3 0 17L64.7 256l102.2 100.4c4.7 4.7 4.7 12.3 0 17l-7.1 7.1c-4.7 4.7-12.3 4.7-17 0L25 264.5c-4.6-4.7-4.6-12.3.1-17z"></path></svg><!-- <span class="fal fa-angle-left"></span> Font Awesome fontawesome.com --> 
-														<span id="prev-tab-label" class="sr-only sr-only-focusable">Previous</span>
-                        </button>
-                    </div>
-                      <ul class="nav nav-pills tabbed-navigation scroll-snap__carousel" id="loginContainerTabs" role="tablist">
-            
-				
-
-                         <li class="nav-item scroll-snap__item" role="presentation">
-                            <a class="nav-link px-md-3 " id="tab-0" data-toggle="tab" href="#tabpanel-0" role="tab" aria-controls="tabpanel-0" aria-selected="false">
-                            <span data-lfr-editable-id="title0" data-lfr-editable-type="text" tabindex="-1"></span>
-                            </a>
-                         </li>
-
-                         <li class="nav-item scroll-snap__item" role="presentation">
-                            <a class="nav-link px-md-3 active" id="tab-1" data-toggle="tab" href="#tabpanel-1" role="tab" aria-controls="tabpanel-1" aria-selected="true">
-                            <span data-lfr-editable-id="title1" data-lfr-editable-type="text" tabindex="-1">Accesos a Clientes</span>
-                            </a>
-                         </li>
-                      </ul>
-                      <div class="tabs-control text-center">
-                            <button class="text-dark tabs-control-next" onclick="efxScrollSnapGoNext(this)" title="Next Tab" aria-label="Next Tab" aria-labelledby="next-tab-label">
-                           <svg class="svg-inline--fa fa-angle-right fa-w-6" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="angle-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512" data-fa-i2svg=""><path fill="currentColor" d="M166.9 264.5l-117.8 116c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17L127.3 256 25.1 155.6c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0l117.8 116c4.6 4.7 4.6 12.3-.1 17z"></path></svg><!-- <span class="fal fa-angle-right"></span> Font Awesome fontawesome.com -->
-													    <span id="next-tab-label" class="sr-only sr-only-focusable">Next</span>
-                        </button>
-                    </div>
-                   </div>
-<div class="tab-content" id="tabbedContainerPanels">
-        
-<div class="tab-pane fade " id="tabpanel-0" role="tabpanel" aria-labelledby="tab-0">
-
-<div class="information-panel">
-            <!-- repeatable -->
-                    <div class="mkt-body-sm font-weight-bold mb-3 mt-4"><div><a href="https://www.equifax.com.ec/sso-web/" target="_blank"><img alt="" src="//assets.equifax.com/global/images/logos/equifax_150_28.svg"></a></div></div>
-            <div class="information-panel__links">
-                    <a class="mb-4 mb-lg-3 d-flex align-items-center justify-content-between" href="https://www.equifax.com.ec/sso-web/" target="_blank"> -- Acceso a Clientes Equifax<svg class="svg-inline--fa fa-chevron-right fa-w-8 d-lg-none" aria-hidden="true" focusable="false" data-prefix="far" data-icon="chevron-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M24.707 38.101L4.908 57.899c-4.686 4.686-4.686 12.284 0 16.971L185.607 256 4.908 437.13c-4.686 4.686-4.686 12.284 0 16.971L24.707 473.9c4.686 4.686 12.284 4.686 16.971 0l209.414-209.414c4.686-4.686 4.686-12.284 0-16.971L41.678 38.101c-4.687-4.687-12.285-4.687-16.971 0z"></path></svg><!-- <span class="far fa-chevron-right d-lg-none"></span> Font Awesome fontawesome.com --></a>
-                    <a class="mb-4 mb-lg-3 d-flex align-items-center justify-content-between" href="https://equifax.ebox.ec/login.xhtml" target="_blank"> -- Facturación Electrónica<svg class="svg-inline--fa fa-chevron-right fa-w-8 d-lg-none" aria-hidden="true" focusable="false" data-prefix="far" data-icon="chevron-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M24.707 38.101L4.908 57.899c-4.686 4.686-4.686 12.284 0 16.971L185.607 256 4.908 437.13c-4.686 4.686-4.686 12.284 0 16.971L24.707 473.9c4.686 4.686 12.284 4.686 16.971 0l209.414-209.414c4.686-4.686 4.686-12.284 0-16.971L41.678 38.101c-4.687-4.687-12.285-4.687-16.971 0z"></path></svg><!-- <span class="far fa-chevron-right d-lg-none"></span> Font Awesome fontawesome.com --></a>
-                    <a class="mb-4 mb-lg-3 d-flex align-items-center justify-content-between" href="https://sites.placetopay.ec/pagoequifax/login" target="_blank"> -- Pagar mis facturas en línea<svg class="svg-inline--fa fa-chevron-right fa-w-8 d-lg-none" aria-hidden="true" focusable="false" data-prefix="far" data-icon="chevron-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M24.707 38.101L4.908 57.899c-4.686 4.686-4.686 12.284 0 16.971L185.607 256 4.908 437.13c-4.686 4.686-4.686 12.284 0 16.971L24.707 473.9c4.686 4.686 12.284 4.686 16.971 0l209.414-209.414c4.686-4.686 4.686-12.284 0-16.971L41.678 38.101c-4.687-4.687-12.285-4.687-16.971 0z"></path></svg><!-- <span class="far fa-chevron-right d-lg-none"></span> Font Awesome fontawesome.com --></a>
-            </div>
-         </div>
-</div>
-
-
-        
-<div class="tab-pane fade show active" id="tabpanel-1" role="tabpanel" aria-labelledby="tab-1">
-
-<div class="information-panel">
-            <!-- repeatable -->
-                    <div class="mkt-body-sm font-weight-bold mb-3 mt-4"><div><a href="#" target="_blank"><img alt="" src="//assets.equifax.com/global/images/logos/equifax_150_28.svg"></a></div></div>
-            <div class="information-panel__links">
-                    <a class="mb-4 mb-lg-3 d-flex align-items-center justify-content-between" href="http://localhost/equi_aval/equi/paginas/login.php" target="_blank"> -- Acceso a Clientes Equifax<svg class="svg-inline--fa fa-chevron-right fa-w-8 d-lg-none" aria-hidden="true" focusable="false" data-prefix="far" data-icon="chevron-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M24.707 38.101L4.908 57.899c-4.686 4.686-4.686 12.284 0 16.971L185.607 256 4.908 437.13c-4.686 4.686-4.686 12.284 0 16.971L24.707 473.9c4.686 4.686 12.284 4.686 16.971 0l209.414-209.414c4.686-4.686 4.686-12.284 0-16.971L41.678 38.101c-4.687-4.687-12.285-4.687-16.971 0z"></path></svg><!-- <span class="far fa-chevron-right d-lg-none"></span> Font Awesome fontawesome.com --></a>
-                    
-                    
-            </div>
-         </div>
-</div>
-
-
-</div>
-
-        </div>
-      </div>
-   </div>
-</div>
-</li></ul>
+                    </ul>
                 </div>
             </div>
         </nav>
     </div>
 </header>
-	<section id="content" class="efx-site-content webcoe-wrapper">
+  
+    <div class="layout-content portlet-layout" id="main-content" role="main">
+      
+  <div class="lfr-layout-structure-item-com-liferay-site-navigation-breadcrumb-web-portlet-sitenavigationbreadcrumbportlet lfr-layout-structure-item-a7488b97-8219-95a4-ee6d-aff1101356a8 " data-layout-structure-item-id="a7488b97-8219-95a4-ee6d-aff1101356a8"><div id="fragment-634801e1-416a-630f-affe-aed0e48a25c3">
+  <div class="portlet-boundary portlet-boundary_com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet_  portlet-static portlet-static-end portlet-decorate portlet-breadcrumb " id="p_p_id_com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet_INSTANCE_swxk_">
+    <span id="p_com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet_INSTANCE_swxk"></span>
 
+  
 
+    
+    
+  
 
 
 
@@ -6127,429 +5757,7 @@ countryObj.country.forEach(function (e) {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
-		<div class="layout-content portlet-layout" id="main-content" role="main">
-			
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	
-
-	<div class="lfr-layout-structure-item-com-liferay-site-navigation-breadcrumb-web-portlet-sitenavigationbreadcrumbportlet lfr-layout-structure-item-a7488b97-8219-95a4-ee6d-aff1101356a8 " data-layout-structure-item-id="a7488b97-8219-95a4-ee6d-aff1101356a8"><div id="fragment-634801e1-416a-630f-affe-aed0e48a25c3">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	<div class="portlet-boundary portlet-boundary_com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet_  portlet-static portlet-static-end portlet-decorate portlet-breadcrumb " id="p_p_id_com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet_INSTANCE_swxk_">
-		<span id="p_com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet_INSTANCE_swxk"></span>
-
-
-
-
-	
-
-	
-		
-			
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-		
-<section class="portlet" id="portlet_com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet_INSTANCE_swxk">
-
-	<div class="portlet-content">
-
-		<div class="autofit-float autofit-row portlet-header">
-			<div class="autofit-col autofit-col-expand">
-				
-			</div>
-
-			<div class="autofit-col autofit-col-end">
-				<div class="autofit-section">
-				</div>
-			</div>
-		</div>
-
-		
-			<div class=" portlet-content-container">
-				
-
-
-	<div class="portlet-body">
-
-
-
-	
-		
-			
-			
-				
-					
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	
-
-
-
-
-
-
-
-
-	
-
-				
-
-				
-					
-					
-						
-
-
-	
-
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<nav aria-label="Ruta de navegación" id="_com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet_INSTANCE_swxk_breadcrumbs-defaultScreen">
-	
-		
-<script>
-var end = false;
-function createBread(){
-    var i;
-    for (i = 2; i < currentPageLevel+1; i++) {
-        document.getElementById("breadcrumb").innerHTML= document.getElementById("breadcrumb").innerHTML +getValue(i);
-        if(end){
-            break;
-        }
-    }
-    intBreadcrumbNav();
-}
-
-function getValue(index){
-    var sessionVal = sessionStorage.getItem(index+"");
-    var value="";
-    if(!(sessionVal=== null)){
-        if(index==currentPageLevel){
-            value= getHTMLBreadEnd(sessionVal);
-        }else{
-            value= getHTMLBread(sessionVal); 
-        }  
-    }
-    return value;
-}
-createBread();
-
-function getHTMLBread(text){
-    var res = text.split(":::");
-    var address = res[1];
-    if(!address.endsWith('/')){
-       address+="/"; 
-    }
-    var value = "<li class=\"breadcrumb-item\" aria-current=\"page\">";
-    value+="<a href=\""+address+"\" title=\""+res[0]+"\">"+res[0]+"</a></li>";
-    return value;
-}
-
-function getHTMLBreadEnd(text){
-    var res = text.split(":::");04
-	var value = "<li class=\"breadcrumb-item dropdown d-none\">"
-            +"<a type=\"button\" href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" data-display=\"static\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\" aria-hidden=\"true\">...</a>"
-            +"<div class=\"dropdown-menu dropdown-menu-center dropdown-menu-right mkt-breadcrumb__dropdown-menu\"></div></li>";  
-    value += "<li class=\"breadcrumb-item 3\" aria-current=\"page\">"+res[0]+"</li>";
-    return value;
-}
-</script>
-<script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-		{
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Ecuador",
-        "item": "https://www.equifax.ec/"
-		},
-		{
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Empresas",
-        "item": "https://www.equifax.ec/empresas/"
-		}
-	  ]
-    }
-</script>
-
-	
-</nav>
-
-	
-	
-
-					
-				
-			
-		
-	
-	
-
-
-
-	</div>
-
-			</div>
-		
-	</div>
-</section>
-	
-
-		
-		
-	
-
-
-
-
-
-
-
-	</div>
+  </div>
 
 
 
@@ -6561,57 +5769,57 @@ function getHTMLBreadEnd(text){
 
 
 
-		</div>
-	
+    </div>
+  
 
 
 <form action="#" aria-hidden="true" class="hide" id="hrefFm" method="post" name="hrefFm"><span></span><button hidden="" type="submit">Oculto</button></form>
 
-	
-	</section>
+  
+  </section>
 
 
 
 <script type="text/javascript">
-	jQuery(document).ready(function($) {
-		$("#wrapper a:not([href^='http://"+location.hostname+"']):not([href^='#']):not([href^='/']):not([href^='mailto\\:']):not([href^='javascript']):not([href^='https://"+location.hostname+"'])").attr("target","_blank");
+  jQuery(document).ready(function($) {
+    $("#wrapper a:not([href^='http://"+location.hostname+"']):not([href^='#']):not([href^='/']):not([href^='mailto\\:']):not([href^='javascript']):not([href^='https://"+location.hostname+"'])").attr("target","_blank");
     });
     
     function sendMailEngine(data){
-		var url = "https://mailengine.equifax.com/contactus";
-		sendPost(url, data);
-	}
+    var url = "https://mailengine.equifax.com/contactus";
+    sendPost(url, data);
+  }
 
-		digitalData.events.push({
-	    eventAction: "page view",
-	    data: {
-	        page: {        	  	
-	            pageInfo: {
-	                pageName: "business:Empresas",
-	                language: "es_ES",
-	                country: "Ecuador"
-	            },
-	            category: {
-	                pageType: "home",
-	              	contentLabel: "",
-	               	primaryCategory: "business"
-	            }                   
-	        }
-	    }
-		})
+    digitalData.events.push({
+      eventAction: "page view",
+      data: {
+          page: {        	  	
+              pageInfo: {
+                  pageName: "business:Empresas",
+                  language: "es_ES",
+                  country: "Ecuador"
+              },
+              category: {
+                  pageType: "home",
+                  contentLabel: "",
+                   primaryCategory: "business"
+              }                   
+          }
+      }
+    })
 </script>
-	<div class="modal mkt-modal fade" style="display: none" id="efx-global-modal" tabindex="-1" aria-labelledby="efx-global-modal__title" aria-hidden="true">
-    	<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">X</span></button>
-	    <div class="modal-header sr-only">
-        	<div class="modal-title" id="efx-global-modal__title">Modal</div>
-    	</div>
-    	<div class="modal-dialog">
-        	<div class="modal-content">
-            	<div class="modal-body">
-            	</div>
-        	</div>
-    	</div>
-	</div>	
+  <div class="modal mkt-modal fade" style="display: none" id="efx-global-modal" tabindex="-1" aria-labelledby="efx-global-modal__title" aria-hidden="true">
+      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">X</span></button>
+      <div class="modal-header sr-only">
+          <div class="modal-title" id="efx-global-modal__title">Modal</div>
+      </div>
+      <div class="modal-dialog">
+          <div class="modal-content">
+              <div class="modal-body">
+              </div>
+          </div>
+      </div>
+  </div>	
 </div>
 
 
@@ -6717,7 +5925,7 @@ function getHTMLBreadEnd(text){
 
 
 
-	
+  
 
 
 
@@ -6727,7 +5935,7 @@ function getHTMLBreadEnd(text){
 
 
 
-	
+  
 
 
 
@@ -6739,15 +5947,15 @@ function getHTMLBreadEnd(text){
 
 <script type="text/javascript">
 
-	
-		
-		
+  
+    
+    
 
-			
+      
 
-			
-		
-	
+      
+    
+  
 
 
 </script><script>
@@ -6768,21 +5976,19 @@ function getHTMLBreadEnd(text){
 
 
 
-	
+  
 
-	
+  
 
-	
+  
 
-	
+  
 
-	
+  
 
-	
+  
 
-	
-
-
+  
 
 
 
@@ -6794,748 +6000,750 @@ function getHTMLBreadEnd(text){
 
 
 
-	<script type="module">
-		import {Session} from '/o/frontend-js-web/__liferay__/legacy.js';
 
-		if (Liferay.Session && Liferay.Session.destructor) {
-			Liferay.Session.destructor();
-		}
 
-		Liferay.Session = new Session(
-			{
-				autoExtend: true,
-				redirectOnExpire: false,
-				redirectUrl: 'https\x3a\x2f\x2fwww\x2eequifax\x2eec\x2fweb\x2fguest',
-				rememberMe: false,
-				sessionLength: 900,
-				sessionTimeoutOffset: 70,
-				warningLength: 60
-			})
-	</script>
+  <script type="module">
+    import {Session} from '/o/frontend-js-web/__liferay__/legacy.js';
+
+    if (Liferay.Session && Liferay.Session.destructor) {
+      Liferay.Session.destructor();
+    }
+
+    Liferay.Session = new Session(
+      {
+        autoExtend: true,
+        redirectOnExpire: false,
+        redirectUrl: 'https\x3a\x2f\x2fwww\x2eequifax\x2eec\x2fweb\x2fguest',
+        rememberMe: false,
+        sessionLength: 900,
+        sessionTimeoutOffset: 70,
+        warningLength: 60
+      })
+  </script>
 
 
 <script type="text/javascript">
 (function() {var $ = AUI.$;var _ = AUI._;
-	var onDestroyPortlet = function () {
-		Liferay.detach('messagePosted', onMessagePosted);
-		Liferay.detach('destroyPortlet', onDestroyPortlet);
-	};
+  var onDestroyPortlet = function () {
+    Liferay.detach('messagePosted', onMessagePosted);
+    Liferay.detach('destroyPortlet', onDestroyPortlet);
+  };
 
-	Liferay.on('destroyPortlet', onDestroyPortlet);
+  Liferay.on('destroyPortlet', onDestroyPortlet);
 
-	var onMessagePosted = function (event) {
-		if (window.Analytics) {
-			const eventProperties = {
-				className: event.className,
-				classPK: event.classPK,
-				commentId: event.commentId,
-				externalReferenceCode: event.externalReferenceCode,
-				text: event.text,
-			};
+  var onMessagePosted = function (event) {
+    if (window.Analytics) {
+      const eventProperties = {
+        className: event.className,
+        classPK: event.classPK,
+        commentId: event.commentId,
+        externalReferenceCode: event.externalReferenceCode,
+        text: event.text,
+      };
 
-			const blogNode = document.querySelector(
-				'[data-analytics-asset-id="' + event.classPK + '"]'
-			);
+      const blogNode = document.querySelector(
+        '[data-analytics-asset-id="' + event.classPK + '"]'
+      );
 
-			const dmNode = document.querySelector(
-				'[data-analytics-file-entry-id="' + event.classPK + '"]'
-			);
+      const dmNode = document.querySelector(
+        '[data-analytics-file-entry-id="' + event.classPK + '"]'
+      );
 
-			if (blogNode) {
-				eventProperties.title = blogNode.dataset.analyticsAssetTitle;
-			}
-			else if (dmNode) {
-				eventProperties.title = dmNode.dataset.analyticsFileEntryTitle;
-			}
+      if (blogNode) {
+        eventProperties.title = blogNode.dataset.analyticsAssetTitle;
+      }
+      else if (dmNode) {
+        eventProperties.title = dmNode.dataset.analyticsFileEntryTitle;
+      }
 
-			Analytics.send('posted', 'Comment', eventProperties);
-		}
-	};
+      Analytics.send('posted', 'Comment', eventProperties);
+    }
+  };
 
-	Liferay.on('messagePosted', onMessagePosted);
+  Liferay.on('messagePosted', onMessagePosted);
 })();
 
-	function getValueByAttribute(node, attr) {
-		return (
-			node.dataset[attr] ||
-			(node.parentElement && node.parentElement.dataset[attr])
-		);
-	}
+  function getValueByAttribute(node, attr) {
+    return (
+      node.dataset[attr] ||
+      (node.parentElement && node.parentElement.dataset[attr])
+    );
+  }
 
-	function sendDocumentDownloadedAnalyticsEvent(anchor) {
-		var fileEntryId = getValueByAttribute(
-			anchor,
-			'analyticsFileEntryId'
-		);
-		var title = getValueByAttribute(
-			anchor,
-			'analyticsFileEntryTitle'
-		);
-		var version = getValueByAttribute(
-			anchor,
-			'analyticsFileEntryVersion'
-		);
+  function sendDocumentDownloadedAnalyticsEvent(anchor) {
+    var fileEntryId = getValueByAttribute(
+      anchor,
+      'analyticsFileEntryId'
+    );
+    var title = getValueByAttribute(
+      anchor,
+      'analyticsFileEntryTitle'
+    );
+    var version = getValueByAttribute(
+      anchor,
+      'analyticsFileEntryVersion'
+    );
 
-		if (fileEntryId) {
-			Analytics.send('documentDownloaded', 'Document', {
-				groupId: themeDisplay.getScopeGroupId(),
-				fileEntryId,
-				preview:
-					!!window._com_liferay_document_library_analytics_isViewFileEntry,
-				title,
-				version,
-			});
-		}
-	}
+    if (fileEntryId) {
+      Analytics.send('documentDownloaded', 'Document', {
+        groupId: themeDisplay.getScopeGroupId(),
+        fileEntryId,
+        preview:
+          !!window._com_liferay_document_library_analytics_isViewFileEntry,
+        title,
+        version,
+      });
+    }
+  }
 
-	function handleDownloadClick(event) {
-		if (window.Analytics) {
-			if (event.target.nodeName.toLowerCase() === 'a') {
-				sendDocumentDownloadedAnalyticsEvent(
-					event.target
-				);
-			}
-			else if (
-				event.target.parentNode &&
-				event.target.parentNode.nodeName.toLowerCase() === 'a'
-			) {
-				sendDocumentDownloadedAnalyticsEvent(
-					event.target.parentNode
-				);
-			}
-			else {
-				var target = event.target;
-				var matchTextContent =
-					target.textContent &&
-					target.textContent.toLowerCase() ===
-						'descargar';
-				var matchTitle =
-					target.title && target.title.toLowerCase() === 'download';
-				var matchAction = target.action === 'download';
-				var matchLexiconIcon = !!target.querySelector(
-					'.lexicon-icon-download'
-				);
-				var matchLexiconClassName = target.classList.contains(
-					'lexicon-icon-download'
-				);
-				var matchParentTitle =
-					target.parentNode &&
-					target.parentNode.title &&
-					target.parentNode.title.toLowerCase() === 'download';
-				var matchParentLexiconClassName =
-					target.parentNode &&
-					target.parentNode.classList.contains('lexicon-icon-download');
+  function handleDownloadClick(event) {
+    if (window.Analytics) {
+      if (event.target.nodeName.toLowerCase() === 'a') {
+        sendDocumentDownloadedAnalyticsEvent(
+          event.target
+        );
+      }
+      else if (
+        event.target.parentNode &&
+        event.target.parentNode.nodeName.toLowerCase() === 'a'
+      ) {
+        sendDocumentDownloadedAnalyticsEvent(
+          event.target.parentNode
+        );
+      }
+      else {
+        var target = event.target;
+        var matchTextContent =
+          target.textContent &&
+          target.textContent.toLowerCase() ===
+            'descargar';
+        var matchTitle =
+          target.title && target.title.toLowerCase() === 'download';
+        var matchAction = target.action === 'download';
+        var matchLexiconIcon = !!target.querySelector(
+          '.lexicon-icon-download'
+        );
+        var matchLexiconClassName = target.classList.contains(
+          'lexicon-icon-download'
+        );
+        var matchParentTitle =
+          target.parentNode &&
+          target.parentNode.title &&
+          target.parentNode.title.toLowerCase() === 'download';
+        var matchParentLexiconClassName =
+          target.parentNode &&
+          target.parentNode.classList.contains('lexicon-icon-download');
 
-				if (
-					matchTextContent ||
-					matchTitle ||
-					matchParentTitle ||
-					matchAction ||
-					matchLexiconIcon ||
-					matchLexiconClassName ||
-					matchParentLexiconClassName
-				) {
-					var selectedFiles = document.querySelectorAll(
-						'.form .custom-control-input:checked'
-					);
+        if (
+          matchTextContent ||
+          matchTitle ||
+          matchParentTitle ||
+          matchAction ||
+          matchLexiconIcon ||
+          matchLexiconClassName ||
+          matchParentLexiconClassName
+        ) {
+          var selectedFiles = document.querySelectorAll(
+            '.form .custom-control-input:checked'
+          );
 
-					selectedFiles.forEach(({value}) => {
-						var selectedFile = document.querySelector(
-							'[data-analytics-file-entry-id="' + value + '"]'
-						);
+          selectedFiles.forEach(({value}) => {
+            var selectedFile = document.querySelector(
+              '[data-analytics-file-entry-id="' + value + '"]'
+            );
 
-						sendDocumentDownloadedAnalyticsEvent(
-							selectedFile
-						);
-					});
-				}
-			}
-		}
-	}
+            sendDocumentDownloadedAnalyticsEvent(
+              selectedFile
+            );
+          });
+        }
+      }
+    }
+  }
 
-	Liferay.once('destroyPortlet', () => {
-		document.body.removeEventListener(
-			'click',
-			handleDownloadClick
-		);
-	});
+  Liferay.once('destroyPortlet', () => {
+    document.body.removeEventListener(
+      'click',
+      handleDownloadClick
+    );
+  });
 
-	Liferay.once('portletReady', () => {
-		document.body.addEventListener(
-			'click',
-			handleDownloadClick
-		);
-	});
+  Liferay.once('portletReady', () => {
+    document.body.addEventListener(
+      'click',
+      handleDownloadClick
+    );
+  });
 
 (function() {var $ = AUI.$;var _ = AUI._;
-	var onVote = function (event) {
-		if (window.Analytics) {
-			let title = event.contentTitle;
+  var onVote = function (event) {
+    if (window.Analytics) {
+      let title = event.contentTitle;
 
-			if (!title) {
-				const dmNode = document.querySelector(
-					'[data-analytics-file-entry-id="' + event.classPK + '"]'
-				);
+      if (!title) {
+        const dmNode = document.querySelector(
+          '[data-analytics-file-entry-id="' + event.classPK + '"]'
+        );
 
-				if (dmNode) {
-					title = dmNode.dataset.analyticsFileEntryTitle;
-				}
-			}
+        if (dmNode) {
+          title = dmNode.dataset.analyticsFileEntryTitle;
+        }
+      }
 
-			Analytics.send('VOTE', 'Ratings', {
-				className: event.className,
-				classPK: event.classPK,
-				ratingType: event.ratingType,
-				score: event.score,
-				title,
-			});
-		}
-	};
+      Analytics.send('VOTE', 'Ratings', {
+        className: event.className,
+        classPK: event.classPK,
+        ratingType: event.ratingType,
+        score: event.score,
+        title,
+      });
+    }
+  };
 
-	var onDestroyPortlet = function () {
-		Liferay.detach('ratings:vote', onVote);
-		Liferay.detach('destroyPortlet', onDestroyPortlet);
-	};
+  var onDestroyPortlet = function () {
+    Liferay.detach('ratings:vote', onVote);
+    Liferay.detach('destroyPortlet', onDestroyPortlet);
+  };
 
-	Liferay.on('ratings:vote', onVote);
-	Liferay.on('destroyPortlet', onDestroyPortlet);
+  Liferay.on('ratings:vote', onVote);
+  Liferay.on('destroyPortlet', onDestroyPortlet);
 })();
 (function() {var $ = AUI.$;var _ = AUI._;
-	var onShare = function (data) {
-		if (window.Analytics) {
-			Analytics.send('shared', 'SocialBookmarks', {
-				className: data.className,
-				classPK: data.classPK,
-				type: data.type,
-				url: data.url,
-			});
-		}
-	};
+  var onShare = function (data) {
+    if (window.Analytics) {
+      Analytics.send('shared', 'SocialBookmarks', {
+        className: data.className,
+        classPK: data.classPK,
+        type: data.type,
+        url: data.url,
+      });
+    }
+  };
 
-	var onDestroyPortlet = function () {
-		Liferay.detach('socialBookmarks:share', onShare);
-		Liferay.detach('destroyPortlet', onDestroyPortlet);
-	};
+  var onDestroyPortlet = function () {
+    Liferay.detach('socialBookmarks:share', onShare);
+    Liferay.detach('destroyPortlet', onDestroyPortlet);
+  };
 
-	Liferay.on('socialBookmarks:share', onShare);
-	Liferay.on('destroyPortlet', onDestroyPortlet);
+  Liferay.on('socialBookmarks:share', onShare);
+  Liferay.on('destroyPortlet', onDestroyPortlet);
 })();
 
-	if (window.svg4everybody && Liferay.Data.ICONS_INLINE_SVG) {
-		svg4everybody(
-			{
-				polyfill: true,
-				validate: function (src, svg, use) {
-					return !src || !src.startsWith('#');
-				}
-			}
-		);
-	}
+  if (window.svg4everybody && Liferay.Data.ICONS_INLINE_SVG) {
+    svg4everybody(
+      {
+        polyfill: true,
+        validate: function (src, svg, use) {
+          return !src || !src.startsWith('#');
+        }
+      }
+    );
+  }
 
 (function() {var $ = AUI.$;var _ = AUI._;
-	Liferay.Util.delegate(
-		document,
-		'focusin',
-		'.portlet',
-		function(event) {
-			event.delegateTarget.closest('.portlet').classList.add('open');
-		}
-	);
+  Liferay.Util.delegate(
+    document,
+    'focusin',
+    '.portlet',
+    function(event) {
+      event.delegateTarget.closest('.portlet').classList.add('open');
+    }
+  );
 
-	Liferay.Util.delegate(
-		document,
-		'focusout',
-		'.portlet',
-		function(event) {
-			event.delegateTarget.closest('.portlet').classList.remove('open');
-		}
-	);
+  Liferay.Util.delegate(
+    document,
+    'focusout',
+    '.portlet',
+    function(event) {
+      event.delegateTarget.closest('.portlet').classList.remove('open');
+    }
+  );
 })();
 
-	// <![CDATA[
-
-		
-
-		Liferay.currentURL = '\x2f';
-		Liferay.currentURLEncoded = '\x252F';
-
-	// ]]>
-
-
-	
-		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_wgje');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_wgje_',
-			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_wgje',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_wgje\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('FragmentButton_INSTANCE_dcnp');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_FragmentButton_INSTANCE_dcnp_',
-			portletId: 'FragmentButton_INSTANCE_dcnp',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_dcnp\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_fyre');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_fyre_',
-			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_fyre',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_fyre\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('FragmentButton_INSTANCE_tryh');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_FragmentButton_INSTANCE_tryh_',
-			portletId: 'FragmentButton_INSTANCE_tryh',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_tryh\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('FragmentButton_INSTANCE_uprh');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_FragmentButton_INSTANCE_uprh_',
-			portletId: 'FragmentButton_INSTANCE_uprh',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_uprh\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('FragmentButton_INSTANCE_pvua');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_FragmentButton_INSTANCE_pvua_',
-			portletId: 'FragmentButton_INSTANCE_pvua',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_pvua\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('FragmentButton_INSTANCE_xdyd');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_FragmentButton_INSTANCE_xdyd_',
-			portletId: 'FragmentButton_INSTANCE_xdyd',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_xdyd\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('FragmentButton_INSTANCE_skwu');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_FragmentButton_INSTANCE_skwu_',
-			portletId: 'FragmentButton_INSTANCE_skwu',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_skwu\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('FragmentButton_INSTANCE_zozx');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_FragmentButton_INSTANCE_zozx_',
-			portletId: 'FragmentButton_INSTANCE_zozx',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_zozx\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('FragmentButton_INSTANCE_yxof');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_FragmentButton_INSTANCE_yxof_',
-			portletId: 'FragmentButton_INSTANCE_yxof',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_yxof\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('FragmentButton_INSTANCE_pjln');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_FragmentButton_INSTANCE_pjln_',
-			portletId: 'FragmentButton_INSTANCE_pjln',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_pjln\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('FragmentButton_INSTANCE_kbiw');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_FragmentButton_INSTANCE_kbiw_',
-			portletId: 'FragmentButton_INSTANCE_kbiw',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_kbiw\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_vwgm');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_vwgm_',
-			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_vwgm',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_vwgm\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('FragmentButton_INSTANCE_yzqn');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_FragmentButton_INSTANCE_yzqn_',
-			portletId: 'FragmentButton_INSTANCE_yzqn',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_yzqn\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('FragmentButton_INSTANCE_vbob');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_FragmentButton_INSTANCE_vbob_',
-			portletId: 'FragmentButton_INSTANCE_vbob',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_vbob\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('FragmentButton_INSTANCE_zjtk');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_FragmentButton_INSTANCE_zjtk_',
-			portletId: 'FragmentButton_INSTANCE_zjtk',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_zjtk\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('FragmentButton_INSTANCE_kwta');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_FragmentButton_INSTANCE_kwta_',
-			portletId: 'FragmentButton_INSTANCE_kwta',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_kwta\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('FragmentButton_INSTANCE_brhl');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_FragmentButton_INSTANCE_brhl_',
-			portletId: 'FragmentButton_INSTANCE_brhl',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_brhl\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('FragmentButton_INSTANCE_ngqo');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_FragmentButton_INSTANCE_ngqo_',
-			portletId: 'FragmentButton_INSTANCE_ngqo',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_ngqo\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_mklk');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_mklk_',
-			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_mklk',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_mklk\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('FragmentButton_INSTANCE_pcts');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_FragmentButton_INSTANCE_pcts_',
-			portletId: 'FragmentButton_INSTANCE_pcts',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_pcts\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('FragmentButton_INSTANCE_pbff');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_FragmentButton_INSTANCE_pbff_',
-			portletId: 'FragmentButton_INSTANCE_pbff',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_pbff\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('FragmentButton_INSTANCE_tyhy');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_FragmentButton_INSTANCE_tyhy_',
-			portletId: 'FragmentButton_INSTANCE_tyhy',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_tyhy\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet_INSTANCE_swxk');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet_INSTANCE_swxk_',
-			portletId: 'com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet_INSTANCE_swxk',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dcom_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet_INSTANCE_swxk\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('FragmentButton_INSTANCE_krfsbutton1');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_FragmentButton_INSTANCE_krfsbutton1_',
-			portletId: 'FragmentButton_INSTANCE_krfsbutton1',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_krfsbutton1\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('FragmentButton_INSTANCE_ezao');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_FragmentButton_INSTANCE_ezao_',
-			portletId: 'FragmentButton_INSTANCE_ezao',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_ezao\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('FragmentButton_INSTANCE_krfsbutton2');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_FragmentButton_INSTANCE_krfsbutton2_',
-			portletId: 'FragmentButton_INSTANCE_krfsbutton2',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_krfsbutton2\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
-
-
-	
-		Liferay.Portlet.register('FragmentButton_INSTANCE_kopr');
-	
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_FragmentButton_INSTANCE_kopr_',
-			portletId: 'FragmentButton_INSTANCE_kopr',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_kopr\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
-			refreshURLData: {}
-		}
-	);
+  // <![CDATA[
+
+    
+
+    Liferay.currentURL = '\x2f';
+    Liferay.currentURLEncoded = '\x252F';
+
+  // ]]>
+
+
+  
+    Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_wgje');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_wgje_',
+      portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_wgje',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_wgje\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('FragmentButton_INSTANCE_dcnp');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_FragmentButton_INSTANCE_dcnp_',
+      portletId: 'FragmentButton_INSTANCE_dcnp',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_dcnp\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_fyre');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_fyre_',
+      portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_fyre',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_fyre\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('FragmentButton_INSTANCE_tryh');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_FragmentButton_INSTANCE_tryh_',
+      portletId: 'FragmentButton_INSTANCE_tryh',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_tryh\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('FragmentButton_INSTANCE_uprh');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_FragmentButton_INSTANCE_uprh_',
+      portletId: 'FragmentButton_INSTANCE_uprh',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_uprh\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('FragmentButton_INSTANCE_pvua');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_FragmentButton_INSTANCE_pvua_',
+      portletId: 'FragmentButton_INSTANCE_pvua',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_pvua\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('FragmentButton_INSTANCE_xdyd');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_FragmentButton_INSTANCE_xdyd_',
+      portletId: 'FragmentButton_INSTANCE_xdyd',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_xdyd\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('FragmentButton_INSTANCE_skwu');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_FragmentButton_INSTANCE_skwu_',
+      portletId: 'FragmentButton_INSTANCE_skwu',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_skwu\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('FragmentButton_INSTANCE_zozx');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_FragmentButton_INSTANCE_zozx_',
+      portletId: 'FragmentButton_INSTANCE_zozx',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_zozx\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('FragmentButton_INSTANCE_yxof');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_FragmentButton_INSTANCE_yxof_',
+      portletId: 'FragmentButton_INSTANCE_yxof',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_yxof\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('FragmentButton_INSTANCE_pjln');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_FragmentButton_INSTANCE_pjln_',
+      portletId: 'FragmentButton_INSTANCE_pjln',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_pjln\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('FragmentButton_INSTANCE_kbiw');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_FragmentButton_INSTANCE_kbiw_',
+      portletId: 'FragmentButton_INSTANCE_kbiw',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_kbiw\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_vwgm');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_vwgm_',
+      portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_vwgm',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_vwgm\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('FragmentButton_INSTANCE_yzqn');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_FragmentButton_INSTANCE_yzqn_',
+      portletId: 'FragmentButton_INSTANCE_yzqn',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_yzqn\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('FragmentButton_INSTANCE_vbob');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_FragmentButton_INSTANCE_vbob_',
+      portletId: 'FragmentButton_INSTANCE_vbob',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_vbob\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('FragmentButton_INSTANCE_zjtk');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_FragmentButton_INSTANCE_zjtk_',
+      portletId: 'FragmentButton_INSTANCE_zjtk',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_zjtk\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('FragmentButton_INSTANCE_kwta');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_FragmentButton_INSTANCE_kwta_',
+      portletId: 'FragmentButton_INSTANCE_kwta',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_kwta\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('FragmentButton_INSTANCE_brhl');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_FragmentButton_INSTANCE_brhl_',
+      portletId: 'FragmentButton_INSTANCE_brhl',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_brhl\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('FragmentButton_INSTANCE_ngqo');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_FragmentButton_INSTANCE_ngqo_',
+      portletId: 'FragmentButton_INSTANCE_ngqo',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_ngqo\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_mklk');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_mklk_',
+      portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_mklk',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_mklk\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('FragmentButton_INSTANCE_pcts');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_FragmentButton_INSTANCE_pcts_',
+      portletId: 'FragmentButton_INSTANCE_pcts',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_pcts\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('FragmentButton_INSTANCE_pbff');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_FragmentButton_INSTANCE_pbff_',
+      portletId: 'FragmentButton_INSTANCE_pbff',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_pbff\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('FragmentButton_INSTANCE_tyhy');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_FragmentButton_INSTANCE_tyhy_',
+      portletId: 'FragmentButton_INSTANCE_tyhy',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_tyhy\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet_INSTANCE_swxk');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet_INSTANCE_swxk_',
+      portletId: 'com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet_INSTANCE_swxk',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dcom_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet_INSTANCE_swxk\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('FragmentButton_INSTANCE_krfsbutton1');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_FragmentButton_INSTANCE_krfsbutton1_',
+      portletId: 'FragmentButton_INSTANCE_krfsbutton1',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_krfsbutton1\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('FragmentButton_INSTANCE_ezao');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_FragmentButton_INSTANCE_ezao_',
+      portletId: 'FragmentButton_INSTANCE_ezao',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_ezao\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('FragmentButton_INSTANCE_krfsbutton2');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_FragmentButton_INSTANCE_krfsbutton2_',
+      portletId: 'FragmentButton_INSTANCE_krfsbutton2',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_krfsbutton2\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
+
+
+  
+    Liferay.Portlet.register('FragmentButton_INSTANCE_kopr');
+  
+
+  Liferay.Portlet.onLoad(
+    {
+      canEditTitle: false,
+      columnPos: 0,
+      isStatic: 'end',
+      namespacedId: 'p_p_id_FragmentButton_INSTANCE_kopr_',
+      portletId: 'FragmentButton_INSTANCE_kopr',
+      refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d4194\x26p_p_id\x3dFragmentButton_INSTANCE_kopr\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+      refreshURLData: {}
+    }
+  );
 
 
 </script><script type="module">
@@ -7548,32 +6756,19 @@ Liferay.component('infoItemActionComponent', new ComponentModule({"executeInfoIt
 }
 (function() {
 var $ = AUI.$;var _ = AUI._;
-	new Liferay.Menu();
+  new Liferay.Menu();
 
-	var liferayNotices = Liferay.Data.notices;
+  var liferayNotices = Liferay.Data.notices;
 
-	for (var i = 0; i < liferayNotices.length; i++) {
-		Liferay.Util.openToast(liferayNotices[i]);
-	}
+  for (var i = 0; i < liferayNotices.length; i++) {
+    Liferay.Util.openToast(liferayNotices[i]);
+  }
 
 })();
 });
 
 </script>
-
-
-
-
-
-
-
-
-
 <script src="https://www.equifax.ec/o/evolution-generic-theme/js/main.js?browserId=chrome&amp;minifierType=js&amp;languageId=es_ES&amp;t=1769130842000" type="text/javascript"></script>
-
-
-
-
 <script type="module">
 import {main} from '/o/frontend-js-bootstrap-support-web/__liferay__/index.js';
 {
@@ -7594,8 +6789,8 @@ Liferay.CustomDialogs = {enabled: false};
 </script>
 
 
-		
-	
+    
+  
 
 <script type="text/javascript" id="" charset="">var pv=1;sessionStorage.pv?(pv+=1,sessionStorage.setItem("pv",pv)):sessionStorage.pv||sessionStorage.setItem("pv",pv);</script>  <script type="text/javascript" id="" charset="">digitalData=window.digitalData||{};digitalData.events=digitalData.events||[];window.dataLayer=window.dataLayer||[];"undefined"==typeof _satellite&&(window._satellite={track:function(a){}});keyMerging=function(a,c,d){Array.isArray(a)||Object.keys(a).forEach(function(b){if("undefined"==typeof c[b]||("object"!=typeof a[b]||Array.isArray(a[b]))&&"products"!=b||"page"==b||1==d)c[b]=a[b];else return"products"==b&&"undefined"==typeof a[b][0].productID?keyMerging(a[b][0],c[b][0]):keyMerging(a[b],c[b]),!1})};
 for(var i=0;i<digitalData.events.length;i++){var gtmObject=digitalData.events[i];digitalData.events[i].data&&keyMerging(digitalData.events[i].data,window.digitalData);if("undefined"!=typeof digitalData.events[i].eventAction||"undefined"!=typeof digitalData.events[i].event)gtmObject.event=digitalData.events[i].eventAction||digitalData.events[i].event,window.dataLayer.push(gtmObject)}
