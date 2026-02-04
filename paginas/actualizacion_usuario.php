@@ -25,7 +25,7 @@ mysqli_close($conexion);
 
     <head>
         <?php
-        include "../plantillas/head.php";
+        include "../plantillas/head2.php";
         ?>
 
 
@@ -447,8 +447,8 @@ mysqli_close($conexion);
         <div class="column">
             <h4>Otros</h4>
             <ul class="lista-elegante">
-                <li>Creditos : <span class="lista-elegante centrado" id="spTotal"></span></li>
-                <li>Total : <span class="lista-elegante centrado" id="spTotal3"></span></li>
+                <li>Creditos : <span class="lista-elegante centrado" id="spTotal">0</span></li>
+                <li>Total : <span class="lista-elegante centrado" id="spTotal3">0</span></li>
             </ul>
         </div>
     </div>
@@ -594,12 +594,12 @@ mysqli_close($conexion);
         <div class="column">
             <h4>Creditos</h4>
             <ul class="lista-elegante">
-                <li>Cooperativa : <span class="lista-elegante centrado" id="spCooperativa"></span></li>
-                <li>Credito Vehicular : <span class="lista-elegante centrado" id="spCreditoVehicular"></span></li>
-                <li>Credito Bancario : <span class="lista-elegante centrado" id="spCreditosBancarios"></span></li>
-                <li>Tarjeta de Credito : <span class="lista-elegante centrado" id="spTarjetaCredito"></span></li>
-                <li>Credito Telefonico : <span class="lista-elegante centrado" id="spCompaniaTelefonica"></span></li>
-                <li>Credito Hipotecario : <span class="lista-elegante centrado" id="spCreditoHipotecario"></span></li>
+                <li>Cooperativa : <span class="lista-elegante centrado" id="spCooperativa">0</span></li>
+                <li>Credito Vehicular : <span class="lista-elegante centrado" id="spCreditoVehicular">0</span></li>
+                <li>Credito Bancario : <span class="lista-elegante centrado" id="spCreditosBancarios">0</span></li>
+                <li>Tarjeta de Credito : <span class="lista-elegante centrado" id="spTarjetaCredito">0</span></li>
+                <li>Credito Telefonico : <span class="lista-elegante centrado" id="spCompaniaTelefonica">0</span></li>
+                <li>Credito Hipotecario : <span class="lista-elegante centrado" id="spCreditoHipotecario">0</span></li>
 
             </ul>
         </div>
@@ -609,7 +609,7 @@ mysqli_close($conexion);
             <h4>Reportes</h4>
             <ul class="lista-elegante">
 
-                <li>Coactivos : <span class="lista-elegante centrado spCoactivos" id="spCoactivos"></span></li>
+                <li>Coactivos : <span class="lista-elegante centrado spCoactivos" id="spCoactivos">0</span></li>
             </ul>
         </div>
 

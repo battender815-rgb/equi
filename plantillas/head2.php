@@ -5629,7 +5629,26 @@ var countryName = "EC";
                     <ul class="navbar-nav navbar-utility" role="menu">
 
 
+<button type="button" class="btn" id="logoutBtn">Cerrar Sesión</button>
 
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+    let userRole = "admin"; // Cambiar según el usuario real
+
+    const logoutBtn = document.getElementById("logoutBtn");
+
+    if (userRole !== "admin") {
+        logoutBtn.style.display = "none";
+    } else {
+        logoutBtn.style.display = "inline-block";
+    }
+
+    logoutBtn.addEventListener("click", () => {
+        // Redirigir a un script PHP que cierre sesión
+        window.location.href = "logout.php";
+    });
+});
+</script>
 
 
           
