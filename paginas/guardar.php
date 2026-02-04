@@ -29,18 +29,25 @@ $companiatelefonica = isset($_POST['companiatelefonica']) ? 1 : 0;
 $coactivos          = isset($_POST['coactivos']) ? 1 : 0;
 $otros              = isset($_POST['otros']) ? 1 : 0;
 
+$caracteres = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+$passwordPlano = substr(str_shuffle($caracteres), 0, 8);
+
+// Encriptar password (RECOMENDADO)
+$passwordHash = password_hash($passwordPlano, PASSWORD_DEFAULT);
+
 // 3. Insertar en la base de datos
 $sql = "INSERT INTO clientes (
-    cedula, nombres, apellidos, correo, telefono,
+    cedula, nombres, apellidos, correo, telefono, password,
     tarjetacredito, creditosbancarios, creditovehicular,
     creditohipotecario, cooperativa, companiatelefonica,
     coactivos, otros
 ) VALUES (
-    '$cedula','$nombres', '$apellidos', '$correo', '$telefono',
+    '$cedula','$nombres', '$apellidos', '$correo', '$telefono', '$passwordHash',
     $tarjetacredito, $creditosbancarios, $creditovehicular,
     $creditohipotecario, $cooperativa, $companiatelefonica,
     $coactivos, $otros
 )";
+
 
 if ($conn->query($sql) === TRUE) {
     echo "<script>

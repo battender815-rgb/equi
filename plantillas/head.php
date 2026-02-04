@@ -5627,11 +5627,38 @@ var countryName = "EC";
                     <!-- Desktop Logo Brand-->
                     <a class="navbar-brand d-none d-lg-inline-block m-0" href="https://www.equifax.ec/" target="_blank"><img src="https://assets.equifax.com/global/images/logos/equifax_150_28.svg" alt="Equifax Logo"></a>
                     <ul class="navbar-nav navbar-utility" role="menu">
-                            
+
+
+<button type="button" class="btn" id="logoutBtn">Cerrar Sesión</button>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+    let userRole = "admin"; // Cambiar según el usuario real
+
+    const logoutBtn = document.getElementById("logoutBtn");
+
+    if (userRole !== "admin") {
+        logoutBtn.style.display = "none";
+    } else {
+        logoutBtn.style.display = "inline-block";
+    }
+
+    logoutBtn.addEventListener("click", () => {
+        // Redirigir a un script PHP que cierre sesión
+        window.location.href = "logout.php";
+    });
+});
+</script>
+
+
+          
 <li class="nav-item dropdown dropdown-mega nav-item-locale" role="menuitem" aria-expanded="false">
     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown4" role="button" aria-haspopup="true" aria-expanded="false">
         <img class="nav-item-locale__icon" src="//assets.equifax.com/global/images/flags/Equador_27x27.png" alt="Ecuador Icono"> <span class="nav-item-locale__text">Ecuador</span>
     </a>
+
+
+
 <div class="dropdown-menu dropdown-mega-menu dropdown-mega-menu--full dropdown-menu--medium">
 <div class="container p-0">
     <div class="row no-gutters">
