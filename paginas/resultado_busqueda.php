@@ -246,7 +246,61 @@ mysqli_close($conexion);
             }
         </style>
     </head>
-    <button onclick="abrirModal()">Ver usuarios</button>
+    <div class="busqueda-container">
+    <input type="text" id="inputCedula" placeholder="Ingrese cédula">
+    <button onclick="buscarUsuario()">Buscar</button>
+</div>
+
+<style>
+/* Contenedor centrado y espaciamiento */
+.busqueda-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px; /* espacio entre input y botón */
+    margin-bottom: 20px;
+}
+
+/* Estilo del input */
+.busqueda-container input {
+    padding: 10px 15px;
+    width: 220px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+    transition: all 0.3s;
+}
+
+/* Efecto al enfocar el input */
+.busqueda-container input:focus {
+    border-color: #4caf50;
+    box-shadow: 0 0 5px rgba(76, 175, 80, 0.5);
+    outline: none;
+}
+
+/* Estilo del botón */
+.busqueda-container button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+/* Hover del botón */
+.busqueda-container button:hover {
+    background-color: #45a049;
+    transform: translateY(-2px);
+}
+
+/* Efecto de click */
+.busqueda-container button:active {
+    transform: translateY(0);
+}
+</style>
 
     <div id="modalUsuarios" class="modal">
         <div class="modal-contenido">
@@ -346,6 +400,44 @@ mysqli_close($conexion);
         let idClienteSeleccionado = null;
     </script>
     <script>
+        function buscarUsuario() {
+            const cedula = document.getElementById("inputCedula").value.trim();
+
+            if (!cedula) {
+                alert("Ingrese una cédula para buscar.");
+                return;
+            }
+
+            fetch(`buscar_usuario.php?cedula=${cedula}`)
+                .then(res => res.json())
+                .then(u => {
+                    if (!u) {
+                        alert("No se encontró ningún usuario con esa cédula.");
+                        return;
+                    }
+
+                    // Llenar los campos como antes
+                    idClienteSeleccionado = u.uid;
+                    document.getElementById("spNombre").innerText = u.nombres + " " + u.apellidos;
+                    document.getElementById("spCedula").innerText = u.cedula;
+                    document.getElementById("spTelefono").innerText = u.telefono;
+                    document.getElementById("spCorreo").innerText = u.correo;
+                    document.getElementById("spScore").innerText = u.score;
+                    document.getElementById("spCoactivos").innerText = u.coactivos;
+                    document.getElementById("spCompaniaTelefonica").innerText = u.companiatelefonica;
+                    document.getElementById("spCooperativa").innerText = u.cooperativa;
+                    document.getElementById("spCreditoHipotecario").innerText = u.creditohipotecario;
+                    document.getElementById("spCreditosBancarios").innerText = u.creditosbancarios;
+                    document.getElementById("spCreditoVehicular").innerText = u.creditovehicular;
+                    document.getElementById("spTarjetaCredito").innerText = u.tarjetacredito;
+                    document.getElementById("spOtros").innerText = u.otros;
+
+                    // Actualizar Speedometer
+                    const max_valor = 999;
+                    const angulo = (u.score / max_valor) * 180 - 90;
+                    document.querySelector('.needle').style.transform = `rotate(${angulo}deg)`;
+                })
+        }
         function abrirModal() {
             document.getElementById("modalUsuarios").style.display = "block";
             cargarUsuarios();
@@ -417,10 +509,10 @@ mysqli_close($conexion);
         <div class="lista-elegante">
             <h4>Datos Personales</h4>
             <ul>
-                <li>Nombre : <span class="lista-elegante centrado" id="spNombre"></span></li>
-                <li>Cédula : <span class="lista-elegante centrado" id="spCedula"></span></li>
-                <li>Teléfono : <span class="lista-elegante centrado" id="spTelefono"></span></li>
-                <li>Correo : <span class="lista-elegante centrado" id="spCorreo"></span></li>
+                <li>Nombre : <span class="lista-elegante centrado" id="spNombre">--------</span></li>
+                <li>Cédula : <span class="lista-elegante centrado" id="spCedula">--------</span></li>
+                <li>Teléfono : <span class="lista-elegante centrado" id="spTelefono">--------</span></li>
+                <li>Correo : <span class="lista-elegante centrado" id="spCorreo">--------</span></li>
             </ul>
         </div>
 
@@ -447,8 +539,8 @@ mysqli_close($conexion);
         <div class="column">
             <h4>Otros</h4>
             <ul class="lista-elegante">
-                <li>Creditos : <span class="lista-elegante centrado" id="spTotal"></span></li>
-                <li>Total : <span class="lista-elegante centrado" id="spTotal3"></span></li>
+                <li>Creditos : <span class="lista-elegante centrado" id="spTotal">0</span></li>
+                <li>Total : <span class="lista-elegante centrado" id="spTotal3">0</span></li>
             </ul>
         </div>
     </div>
@@ -471,9 +563,7 @@ mysqli_close($conexion);
                 </div>
 
                 <!-- Botón de actualización -->
-                <button type="button" class="btn btn-success" onclick="confirmarActualizacion()">
-                    Actualizar Información
-                </button>
+                
             </div>
 
 
@@ -572,7 +662,7 @@ mysqli_close($conexion);
                                             contenedor.style.display = 'none';
                                         }
                                     })
-                                    
+
 
                             }, 800); // pequeño delay al llegar a 100%
                         }
@@ -595,11 +685,11 @@ mysqli_close($conexion);
             <h4>Creditos</h4>
             <ul class="lista-elegante">
                 <li>Cooperativa : <span class="lista-elegante centrado" id="spCooperativa"></span></li>
-                <li>Credito Vehicular : <span class="lista-elegante centrado" id="spCreditoVehicular"></span></li>
-                <li>Credito Bancario : <span class="lista-elegante centrado" id="spCreditosBancarios"></span></li>
-                <li>Tarjeta de Credito : <span class="lista-elegante centrado" id="spTarjetaCredito"></span></li>
-                <li>Credito Telefonico : <span class="lista-elegante centrado" id="spCompaniaTelefonica"></span></li>
-                <li>Credito Hipotecario : <span class="lista-elegante centrado" id="spCreditoHipotecario"></span></li>
+                <li>Credito Vehicular : <span class="lista-elegante centrado" id="spCreditoVehicular">0</span></li>
+                <li>Credito Bancario : <span class="lista-elegante centrado" id="spCreditosBancarios">0</span></li>
+                <li>Tarjeta de Credito : <span class="lista-elegante centrado" id="spTarjetaCredito">0</span></li>
+                <li>Credito Telefonico : <span class="lista-elegante centrado" id="spCompaniaTelefonica">0</span></li>
+                <li>Credito Hipotecario : <span class="lista-elegante centrado" id="spCreditoHipotecario">0</span></li>
 
             </ul>
         </div>

@@ -95,6 +95,10 @@
 
     <form action="guardar.php" method="POST" class="form-container">
         <h2>Registro Información del Cliente</h2>
+        <div class="form-group">
+            <label>Cedula</label>
+            <input type="text" name="cedula" required>
+        </div>
 
         <div class="form-group">
             <label>Nombres</label>
@@ -117,7 +121,7 @@
         </div>
         <h4>Deudas Actuales</h4>
         <div class="checkbox-group">
-             
+
             <label><input type="checkbox" name="tarjetacredito" value="1"> Tarjeta de crédito</label>
             <label><input type="checkbox" name="creditosbancarios" value="1"> Créditos bancarios</label>
             <label><input type="checkbox" name="creditovehicular" value="1"> Crédito vehicular</label>

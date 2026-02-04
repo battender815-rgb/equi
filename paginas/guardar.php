@@ -13,6 +13,7 @@ if ($conn->connect_error) {
 }
 
 // 2. Recibir datos del formulario
+$cedula   = $_POST['cedula'];
 $nombres   = $_POST['nombres'];
 $apellidos = $_POST['apellidos'];
 $correo    = $_POST['correo'];
@@ -30,12 +31,12 @@ $otros              = isset($_POST['otros']) ? 1 : 0;
 
 // 3. Insertar en la base de datos
 $sql = "INSERT INTO clientes (
-    nombres, apellidos, correo, telefono,
+    cedula, nombres, apellidos, correo, telefono,
     tarjetacredito, creditosbancarios, creditovehicular,
     creditohipotecario, cooperativa, companiatelefonica,
     coactivos, otros
 ) VALUES (
-    '$nombres', '$apellidos', '$correo', '$telefono',
+    '$cedula','$nombres', '$apellidos', '$correo', '$telefono',
     $tarjetacredito, $creditosbancarios, $creditovehicular,
     $creditohipotecario, $cooperativa, $companiatelefonica,
     $coactivos, $otros
